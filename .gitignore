@@ -1,9 +1,24 @@
+# Abaikan semua file
 *
+
+# ========================
+# REPO ESSENTIALS
+# ========================
 !.gitignore
+!README.md
+!LICENSE
+
+# ========================
+# FILE TERJEMAHAN
+# ========================
+!**/*.xml
+!**/*.csv
+!**/*.txt
+!**/*.loc
+!**/*.lang
+!**/*.json
+
+# ========================
+# IZINKAN FOLDER
+# ========================
 !*/
-!*.xml
-!*.csv
-!*.txt
-!*.loc
-!*.lang
-!*.json
