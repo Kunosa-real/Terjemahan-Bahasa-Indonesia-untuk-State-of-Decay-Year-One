@@ -1,0 +1,9 @@
+*
+!.gitignore
+!*/
+!*.xml
+!*.csv
+!*.txt
+!*.loc
+!*.lang
+!*.json
