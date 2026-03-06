@@ -234,7 +234,7 @@
       <Row ss:AutoFitHeight="0" ss:Height="51" ss:StyleID="s65">
         <Cell ss:StyleID="s67" />
         <Cell ss:StyleID="s68">
-          <Data ss:Type="String">KEY</Data>
+          <Data ss:Type="String">KUNCI</Data>
         </Cell>
         <Cell ss:StyleID="s69">
           <Data ss:Type="String">TEKS ASLI</Data>
@@ -245,7 +245,7 @@
           <NamedCell ss:Name="Print_Area" />
         </Cell>
         <Cell>
-          <Data ss:Type="String">CONTEXT</Data>
+          <Data ss:Type="String">KONTEKS</Data>
         </Cell>
       </Row>
       <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:StyleID="s65">
@@ -272,7 +272,7 @@
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_SelectLanguage</Data>
+          <Data ss:Type="String">ui_PilihBahasa</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">pilih bahasa</Data>
@@ -283,32 +283,32 @@
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_English</Data>
+          <Data ss:Type="String">ui_Bahasa Inggris</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">English</Data>
+          <Data ss:Type="String">Bahasa inggris</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">English</Data>
+          <Data ss:Type="String">Bahasa inggris</Data>
         </Cell>
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_German</Data>
+          <Data ss:Type="String">ui_Jerman</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">German</Data>
+          <Data ss:Type="String">Jerman</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Deutsch</Data>
+          <Data ss:Type="String">Jerman</Data>
         </Cell>
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_Japanese</Data>
+          <Data ss:Type="String">ui_Jepang</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Japanese</Data>
+          <Data ss:Type="String">Jepang</Data>
         </Cell>
         <Cell ss:StyleID="Default">
           <Data ss:Type="String">æ—¥æœ¬</Data>
@@ -320,12 +320,12 @@
       <Row ss:StyleID="s76">
         <Cell ss:StyleID="s78" />
         <Cell ss:StyleID="s77">
-          <Data ss:Type="String">MainMenu</Data>
+          <Data ss:Type="String">Menu Utama</Data>
         </Cell>
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_SelectLevel</Data>
+          <Data ss:Type="String">ui_PilihLevel</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">pilih tingkat</Data>
@@ -339,10 +339,10 @@
           <Data ss:Type="String">ui_GoSettings</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">settings</Data>
+          <Data ss:Type="String">pengaturan</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">settings</Data>
+          <Data ss:Type="String">pengaturan</Data>
         </Cell>
       </Row>
       <Row>
@@ -350,26 +350,26 @@
           <Data ss:Type="String">ui_ResumeGame</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">resume</Data>
+          <Data ss:Type="String">melanjutkan</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">resume</Data>
+          <Data ss:Type="String">melanjutkan</Data>
         </Cell>
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_ExitGame</Data>
+          <Data ss:Type="String">ui_KeluarGame</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">exit</Data>
+          <Data ss:Type="String">KELUAR</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">exit</Data>
+          <Data ss:Type="String">KELUAR</Data>
         </Cell>
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_MainMenuTitle</Data>
+          <Data ss:Type="String">ui_JudulMenu Utama</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">menu utama</Data>
@@ -380,35 +380,35 @@
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_Graphic</Data>
+          <Data ss:Type="String">ui_Grafik</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">graphic</Data>
+          <Data ss:Type="String">grafis</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">graphic</Data>
+          <Data ss:Type="String">grafis</Data>
         </Cell>
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_Fullscreen</Data>
+          <Data ss:Type="String">ui_Layar penuh</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">fullscreen</Data>
+          <Data ss:Type="String">layar penuh</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">fullscreen</Data>
+          <Data ss:Type="String">layar penuh</Data>
         </Cell>
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_Resolution</Data>
+          <Data ss:Type="String">ui_Resolusi</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">resolution</Data>
+          <Data ss:Type="String">resolusi</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">resolution</Data>
+          <Data ss:Type="String">resolusi</Data>
         </Cell>
       </Row>
       <Row>
@@ -424,18 +424,18 @@
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_Sound</Data>
+          <Data ss:Type="String">ui_Suara</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">sounds</Data>
+          <Data ss:Type="String">terdengar</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">sounds</Data>
+          <Data ss:Type="String">terdengar</Data>
         </Cell>
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_Music</Data>
+          <Data ss:Type="String">ui_Musik</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">volume musik</Data>
@@ -460,10 +460,10 @@
           <Data ss:Type="String">ui_SaveConfig</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">apply</Data>
+          <Data ss:Type="String">menerapkan</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">apply</Data>
+          <Data ss:Type="String">menerapkan</Data>
         </Cell>
       </Row>
       <Row>
@@ -471,10 +471,10 @@
           <Data ss:Type="String">ui_CancelConfig</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">cancel</Data>
+          <Data ss:Type="String">membatalkan</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">cancel</Data>
+          <Data ss:Type="String">membatalkan</Data>
         </Cell>
       </Row>
       <Row>
@@ -494,29 +494,29 @@
       <Row ss:StyleID="s76">
         <Cell ss:StyleID="s78" />
         <Cell ss:StyleID="s77">
-          <Data ss:Type="String">IngameMenu</Data>
+          <Data ss:Type="String">Menu Dalam Game</Data>
         </Cell>
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_Resume</Data>
+          <Data ss:Type="String">ui_Lanjutkan</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Resume</Data>
+          <Data ss:Type="String">Melanjutkan</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Resume</Data>
+          <Data ss:Type="String">Melanjutkan</Data>
         </Cell>
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_Restart</Data>
+          <Data ss:Type="String">ui_Mulai ulang</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Restart</Data>
+          <Data ss:Type="String">Mulai ulang</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Restart</Data>
+          <Data ss:Type="String">Mulai ulang</Data>
         </Cell>
       </Row>
       <Row>
@@ -524,10 +524,10 @@
           <Data ss:Type="String">ui_QuickLoadGame</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Load</Data>
+          <Data ss:Type="String">Memuat</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Load</Data>
+          <Data ss:Type="String">Memuat</Data>
         </Cell>
       </Row>
       <Row>
@@ -535,32 +535,32 @@
           <Data ss:Type="String">ui_QuickSaveGame</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Save</Data>
+          <Data ss:Type="String">Menyimpan</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Save</Data>
+          <Data ss:Type="String">Menyimpan</Data>
         </Cell>
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_GoMainmenu</Data>
+          <Data ss:Type="String">ui_GoMenu Utama</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mainmenu</Data>
+          <Data ss:Type="String">Menu utama</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Mainmenu</Data>
+          <Data ss:Type="String">Menu utama</Data>
         </Cell>
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_Exit</Data>
+          <Data ss:Type="String">ui_Keluar</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Exit</Data>
+          <Data ss:Type="String">KELUAR</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Exit</Data>
+          <Data ss:Type="String">KELUAR</Data>
         </Cell>
       </Row>
       <Row>
@@ -569,18 +569,18 @@
       <Row ss:StyleID="s76">
         <Cell ss:StyleID="s78" />
         <Cell ss:StyleID="s77">
-          <Data ss:Type="String">LoadingScreen</Data>
+          <Data ss:Type="String">Memuat Layar</Data>
         </Cell>
       </Row>
       <Row>
         <Cell ss:Index="2">
-          <Data ss:Type="String">ui_Loading</Data>
+          <Data ss:Type="String">ui_Memuat</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">loading</Data>
+          <Data ss:Type="String">memuat</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">loading</Data>
+          <Data ss:Type="String">memuat</Data>
         </Cell>
       </Row>
       <Row ss:Index="38" ss:StyleID="s76">
@@ -591,13 +591,13 @@
       </Row>
       <Row>
         <Cell ss:Index="2" ss:StyleID="s62">
-          <Data ss:Type="String">ui_Health</Data>
+          <Data ss:Type="String">ui_Kesehatan</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Health</Data>
+          <Data ss:Type="String">Kesehatan</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Health</Data>
+          <Data ss:Type="String">Kesehatan</Data>
         </Cell>
       </Row>
       <Row>
@@ -605,7 +605,7 @@
           <Data ss:Type="String">ui_DeadMsg</Data>
         </Cell>
         <Cell>
-          <Data ss:Type="String">Kamu sudah mati!</Data>
+          <Data ss:Type="String">Matilah Kau!</Data>
         </Cell>
         <Cell>
           <Data ss:Type="String">Matilah Kau!</Data>
