@@ -1,0 +1,9 @@
+<MovieData>
+ <Mission Name="Mission0">
+  <SequenceGroup Name="root">
+   <ChildGroups />
+   <ChildSequences />
+  </SequenceGroup>
+  <SequenceData />
+ </Mission>
+</MovieData>
