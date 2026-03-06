@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmbeddedTextData>
+  <TextFolders>
+    <EmbeddedTextFolder Name="General">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="GUN_JAM" Notes="" Text="%s Anda macet!" />
+        <EmbeddedText Flags="" Id="WEAPON_BREAK" Notes="" Text="%s Anda rusak!" />
+        <EmbeddedText Flags="" Id="HORDE_ALERTED" Notes="" Text="Gerombolan Zombi Diperingatkan!" />
+        <EmbeddedText Flags="" Id="HEADSHOT_STREAK" Notes="" Text="Pukulan Headshot!" />
+        <EmbeddedText Flags="" Id="CHALLENGE_COMPLETED" Notes="" Text="Anda menyelesaikan tantangan" />
+        <EmbeddedText Flags="" Id="JOIN_FAMILY_FAIL" Notes="" Text="Tinggalkan aku sendiri!!!!" />
+        <EmbeddedText Flags="" Id="5PANIC" Notes="" Text="+5 Panik" />
+        <EmbeddedText Flags="" Id="SUPPLY_RUN_ABORTED" Notes="" Text="Pengoperasian Pasokan Dibatalkan!" />
+        <EmbeddedText Flags="" Id="RESCUE_RUNNERS_EXPIRED" Notes="" Text="Misi Pelari Penyelamat Berakhir" />
+        <EmbeddedText Flags="" Id="EXHAUSTION_FOR_RUNNERS" Notes="" Text="+ Kelelahan Untuk Pelari" />
+        <EmbeddedText Flags="" Id="SUPPLY_RUN_COMPLETE" Notes="" Text="Pasokan Berjalan Selesai" />
+        <EmbeddedText Flags="" Id="NEIGHBORS_DISCOVERED" Notes="" Text="Tetangga Ditemukan" />
+        <EmbeddedText Flags="" Id="NEW_MISSION_OP" Notes="" Text="Peluang Misi Baru (Peta Diperbarui)" />
+        <EmbeddedText Flags="" Id="OUTPOST_OVERRUN" Notes="" Text="Pos terdepan Diserbu!" />
+        <EmbeddedText Flags="" Id="OUTPOST_DEPLETED" Notes="" Text="Pos terdepan Habis" />
+        <EmbeddedText Flags="" Id="GAINED_RENOWN" Notes="" Text="Anda mendapatkan ketenaran" />
+        <EmbeddedText Flags="" Id="BUILDING_DISCOVERED" Notes="" Text="Lokasi Baru Ditemukan" />
+        <EmbeddedText Flags="" Id="NOTHING_USEFUL" Notes="" Text="Tidak Menemukan Sesuatu yang Berguna" />
+        <EmbeddedText Flags="" Id="FULLY_SEARCHED" Notes="" Text="%s Dicari Sepenuhnya" />
+        <EmbeddedText Flags="" Id="NEW_SURVEY_POINT" Notes="" Text="Titik Survei Baru Ditemukan!" />
+        <EmbeddedText Flags="" Id="NO_SPACE" Notes="" Text="Anda tidak punya ruang untuk membawanya!" />
+        <EmbeddedText Flags="" Id="INSUFFICIENT_INFLUENCE" Notes="" Text="Berhentilah mencoba memuat secara lepas!" />
+        <EmbeddedText Flags="" Id="EMPTY_COMMUNITY_CHEST" Notes="" Text="Itu kosong! Cari sesuatu." />
+        <EmbeddedText Flags="" Id="INFESTATION_CLEARED" Notes="" Text="Infestasi Dibasmi!" />
+        <EmbeddedText Flags="" Id="SURVEY_COMPLETE" Notes="" Text="Survei Selesai" />
+        <EmbeddedText Flags="" Id="CANNOT_CLAIM_HOME" Notes="" Text="Tidak dapat mengklaim situs rumah saat menjalankan misi." />
+        <EmbeddedText Flags="" Id="TOO_MANY_OUTPOSTS" Notes="" Text="Anda memiliki terlalu banyak pos terdepan untuk situs ini." />
+        <EmbeddedText Flags="" Id="SURVIVOR_ACTIVITY" Notes="" Text="Aktivitas Korban Ditemukan!" />
+        <EmbeddedText Flags="" Id="FOUND_SMALL_STASH" Notes="" Text="Menemukan simpanan kecil %s" />
+        <EmbeddedText Flags="" Id="FOUND_MEDIUM_STASH" Notes="" Text="Menemukan simpanan sedang %s" />
+        <EmbeddedText Flags="" Id="FOUND_LARGE_STASH" Notes="" Text="Menemukan simpanan besar %s" />
+        <EmbeddedText Flags="" Id="CHARACTER_RESTED" Notes="" Text="%s sekarang diistirahatkan" />
+        <EmbeddedText Flags="" Id="STRANGER" Notes="" Text="Orang asing" />
+        <EmbeddedText Flags="" Id="FOUND" Notes="" Text="%s Ditemukan!" />
+        <EmbeddedText Flags="" Id="NOBODY" Notes="" Text="Tidak ada" />
+        <EmbeddedText Flags="" Id="DASHES" Notes="" Text="--------" />
+        <EmbeddedText Flags="" Id="EMPTY" Notes="" Text="" />
+        <EmbeddedText Flags="" Id="GUEST" Notes="" Text=" (Tamu)" />
+        <EmbeddedText Flags="" Id="SUBTITLE_FORMAT" Notes="" Text="%s: %s" />
+        <EmbeddedText Flags="" Id="YOU" Notes="" Text="kamu" />
+        <EmbeddedText Flags="" Id="OUTPOST_SETUP" Notes="" Text="Pengaturan Pos terdepan" />
+        <EmbeddedText Flags="" Id="EMPTY_SOCKET" Notes="" Text="Soket Kosong" />
+        <EmbeddedText Flags="" Id="LEVEL_UP" Notes="" Text="%s Naik Level" />
+        <EmbeddedText Flags="" Id="UNLOCKED" Notes="" Text="%s Tidak Terkunci" />
+        <EmbeddedText Flags="" Id="CHARACTER_DIED" Notes="" Text="%s sudah mati." />
+        <EmbeddedText Flags="" Id="CHARACTER_DIED_LIST" Notes="" Text="Kematian: %s" />
+        <EmbeddedText Flags="" Id="UNARMED" Notes="" Text="Tidak bersenjata" />
+        <EmbeddedText Flags="" Id="NO_GUN" Notes="" Text="Tanpa Senjata" />
+        <EmbeddedText Flags="" Id="NO_WEAPON" Notes="" Text="Tidak Ada Senjata Jarak Dekat" />
+        <EmbeddedText Flags="" Id="ZOMBIE_HORDE_KILLED" Notes="" Text="Gerombolan Zombi Dibunuh!" />
+        <EmbeddedText Flags="" Id="FREAK_KILLED" Notes="" Text="%s Terbunuh!" />
+        <EmbeddedText Flags="" Id="FREAK_SPOTTED" Notes="" Text="%s Terlihat!" />
+        <EmbeddedText Flags="" Id="FREAK_BLOATER" Notes="" Text="Kembung" />
+        <EmbeddedText Flags="" Id="FREAK_FERAL" Notes="" Text="Liar" />
+        <EmbeddedText Flags="" Id="FREAK_JUGGERNAUT" Notes="" Text="raksasa" />
+        <EmbeddedText Flags="" Id="FREAK_SCREAMER" Notes="" Text="penjerit" />
+        <EmbeddedText Flags="" Id="FREAK_SWAT_ZOMBIE" Notes="" Text="Pukulan Zombie" />
+        <EmbeddedText Flags="Do Not Localize" Id="BUG" Notes="" Text="Bug" />
+        <EmbeddedText Flags="" Id="PLUS" Notes="" Text="+" />
+        <EmbeddedText Flags="" Id="MINUS" Notes="" Text="-" />
+        <EmbeddedText Flags="" Id="FOUND_THING" Notes="" Text="Ditemukan %s!" />
+        <EmbeddedText Flags="" Id="RTS_IO_INPUT" Notes="" Text="%s%s %s" />
+        <EmbeddedText Flags="" Id="RTS_IO_OUTPUT" Notes="" Text="%s%s %s" />
+        <EmbeddedText Flags="" Id="RTS_IO_GTE" Notes="" Text="%d &gt;= %d" />
+        <EmbeddedText Flags="" Id="RTS_IO_LT" Notes="" Text="%d &lt; %d" />
+        <EmbeddedText Flags="" Id="RTS_IO_KNOWN" Notes="" Text="%s Diketahui" />
+        <EmbeddedText Flags="" Id="RTS_IO_UNKNOWN" Notes="" Text="%s Tidak Diketahui" />
+        <EmbeddedText Flags="" Id="RTS_IO_SET" Notes="" Text="%s sudah diatur." />
+        <EmbeddedText Flags="" Id="RTS_IO_NOT_SET" Notes="" Text="%s tidak disetel." />
+        <EmbeddedText Flags="" Id="RTS_IO_UPGRADE" Notes="" Text="Tingkatkan ke %s" />
+        <EmbeddedText Flags="" Id="RTS_IO_GIVES" Notes="" Text="Memberikan %s." />
+        <EmbeddedText Flags="" Id="RTS_IO_TAKES" Notes="" Text="Membutuhkan %s." />
+        <EmbeddedText Flags="" Id="RTS_IO_GIVES_STUFF" Notes="" Text="Memberikan %s %s" />
+        <EmbeddedText Flags="" Id="PLURAL" Notes="" Text="(s)" />
+        <EmbeddedText Flags="" Id="DESTROY_FACILITY" Notes="" Text="Menghancurkan Fasilitas" />
+        <EmbeddedText Flags="" Id="HAS_ITEM" Notes="" Text="Komunitas Memiliki %s" />
+        <EmbeddedText Flags="" Id="TIME_REDUCTION_DAYS" Notes="" Text="-%d Hari" />
+        <EmbeddedText Flags="" Id="TIME_REDUCTION_HOURS" Notes="" Text="-%d Jam" />
+        <EmbeddedText Flags="" Id="TIME_REDUCTION_MINUTES" Notes="" Text="-%d Menit" />
+        <EmbeddedText Flags="" Id="TIME_REDUCTION_SECONDS" Notes="" Text="-%d Detik" />
+        <EmbeddedText Flags="" Id="CLAIM_HOME" Notes="" Text="Klaim Situs Beranda?" />
+        <EmbeddedText Flags="" Id="SEARCH_HOLD" Notes="" Text="Cari (Tahan)" />
+        <EmbeddedText Flags="" Id="CHECK" Notes="" Text="Periksa" />
+        <EmbeddedText Flags="" Id="ENCLAVE_COLLAPSE" Notes="" Text="Enklave &quot;%s&quot; telah runtuh!" />
+        <EmbeddedText Flags="" Id="ENCLAVE_COLLAPSED_COUNT" Notes="" Text="Daerah kantong %d telah runtuh." />
+        <EmbeddedText Flags="" Id="ENCLAVE_TRUST" Notes="" Text="%1$+d Percaya dengan %2$s" />
+        <EmbeddedText Flags="" Id="BUILD_HOLD" Notes="" Text="Barikade (Tahan)" />
+        <EmbeddedText Flags="" Id="TALK" Notes="" Text="Bicara" />
+        <EmbeddedText Flags="" Id="TALK_NAME" Notes="First Name, Last Name" Text="Bicaralah dengan %2$s %2$s" />
+        <EmbeddedText Flags="" Id="GREET_NAME" Notes="First Name, Last Name" Text="Salam %2$s %2$s" />
+        <EmbeddedText Flags="" Id="ENCLAVE_JOINED" Notes="" Text="%s bergabung dengan rumah Anda!" />
+        <EmbeddedText Flags="" Id="TWO_LINES" Notes="" Text="%s\n%s" />
+        <EmbeddedText Flags="" Id="BUILDING_CLEARED" Notes="" Text="%s Bersih" />
+        <EmbeddedText Flags="" Id="DATE_FORMAT" Notes="Used to localize dates. arg 1 is month, arg 2 is day, arg 3 is year" Text="%3$d/%3$d/%3$d" />
+        <EmbeddedText Flags="" Id="REPAIR_HOLD" Notes="" Text="Perbaikan (Tahan)" />
+        <EmbeddedText Flags="" Id="INFESTATIONS_DISCOVERED" Notes="" Text="%d infestasi ditemukan." />
+        <EmbeddedText Flags="" Id="SYS_USER_SIGN_IN_CHANGE" Notes="" Text="Mainkan sebagai pengguna baru? Anda akan kembali ke layar judul tanpa menyimpan." />
+        <EmbeddedText Flags="" Id="SYS_USER_SIGN_IN_CHANGE_TITLE" Notes="" Text="Masuk Ubah" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Save Game Warnings">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="CONFIRM_NO_SAVE_DEVICE_TITLE" Notes="" Text="Tidak Ada Perangkat Penyimpanan" />
+        <EmbeddedText Flags="" Id="CONFIRM_NO_SAVE_DEVICE_DESC" Notes="" Text="Jika tidak ada perangkat penyimpanan yang dipilih, permainan penyimpanan tidak akan dilakukan dan semua kemajuan akan hilang." />
+        <EmbeddedText Flags="" Id="CREATE_NEW_SAVE_TITLE" Notes="" Text="Tidak Ada Simpan Game yang Terdeteksi" />
+        <EmbeddedText Flags="" Id="CREATE_NEW_SAVE_DESC" Notes="" Text="Pilih perangkat penyimpanan untuk membuat data simpanan baru atau memuat simpanan lain, atau Anda dapat melanjutkan tanpa menyimpan tetapi akan kehilangan kemajuan yang dibuat." />
+        <EmbeddedText Flags="" Id="MULTIPLE_SAVES_TITLE" Notes="" Text="Banyak Penyelamatan" />
+        <EmbeddedText Flags="" Id="MULTIPLE_SAVES_DESC" Notes="" Text="Ada lebih dari satu permainan simpanan yang tersedia. Silakan pilih perangkat penyimpanan dengan penyimpanan yang ingin Anda gunakan, atau lanjutkan tanpa menyimpan kehilangan kemajuan apa pun." />
+        <EmbeddedText Flags="" Id="NEW_GAME_LOSE_PROGRESS_TITLE" Notes="" Text="Mulai Permainan Baru" />
+        <EmbeddedText Flags="" Id="NEW_GAME_LOSE_PROGRESS_DESC" Notes="" Text="Memulai permainan baru akan menimpa permainan simpanan Anda yang sudah ada dan Anda akan kehilangan semua kemajuan yang dicapai. Apakah Anda yakin ingin memulai permainan baru?" />
+        <EmbeddedText Flags="" Id="SAVE_ALREADY_EXISTS_TITLE" Notes="" Text="Save Game Ada Di Perangkat Penyimpanan Ini" />
+        <EmbeddedText Flags="" Id="SAVE_ALREADY_EXISTS_DESC" Notes="" Text="Apakah Anda ingin memuat save game yang ada?" />
+        <EmbeddedText Flags="" Id="SAVE_ALREADY_EXISTS_LOAD_DESC" Notes="" Text="Apakah Anda ingin memuat simpanan ini, menimpa simpanan tersebut, atau memilih perangkat penyimpanan lain?" />
+        <EmbeddedText Flags="" Id="SAVE_NOT_FOUND_LOSE_PROGRESS_TITLE" Notes="" Text="Simpan Permainan Tidak Ditemukan" />
+        <EmbeddedText Flags="" Id="SAVE_NOT_FOUND_LOSE_PROGRESS_DESC" Notes="" Text="Save game tidak dapat ditemukan di perangkat penyimpanan ini. Anda dapat membuat penyimpanan di perangkat penyimpanan ini, memilih perangkat penyimpanan lain, atau melanjutkan penyimpanan tanpa kehilangan kemajuan apa pun." />
+        <EmbeddedText Flags="" Id="STORAGE_REMOVED_TITLE" Notes="" Text="Perangkat Penyimpanan Dihapus" />
+        <EmbeddedText Flags="" Id="STORAGE_REMOVED_DESC" Notes="" Text="Masukkan kembali perangkat penyimpanan, atau Anda dapat melanjutkan tanpa menyimpan dan kehilangan kemajuan apa pun yang telah dicapai." />
+        <EmbeddedText Flags="" Id="SAVE_CREATED_TITLE" Notes="" Text="Simpan Dibuat" />
+        <EmbeddedText Flags="" Id="SAVE_CREATED_DESC" Notes="" Text="File penyimpanan baru telah dibuat" />
+        <EmbeddedText Flags="" Id="CONFIRM_OVERWRITE_TITLE" Notes="" Text="Timpa" />
+        <EmbeddedText Flags="" Id="CONFIRM_OVERWRITE_DESC" Notes="" Text="Apakah Anda yakin ingin menimpa permainan simpanan ini? Semua data simpanan sebelumnya akan hilang." />
+        <EmbeddedText Flags="" Id="INSUFFICIENT_STORAGE_TITLE" Notes="" Text="Penyimpanan Tidak Memadai" />
+        <EmbeddedText Flags="" Id="INSUFFICIENT_STORAGE_DESC" Notes="" Text="Perangkat penyimpanan yang dipilih tidak memiliki cukup ruang" />
+        <EmbeddedText Flags="" Id="SAVE_FILE_CORRUPT_TITLE" Notes="" Text="Simpan Game Rusak" />
+        <EmbeddedText Flags="" Id="SAVE_FILE_CORRUPT_DESC" Notes="" Text="Save game tampaknya rusak dan tidak dapat dimuat. Anda dapat memilih perangkat penyimpanan lain atau melanjutkan tanpa kehilangan kemajuan apa pun." />
+        <EmbeddedText Flags="" Id="DISK_CORRUPT_TITLE" Notes="" Text="Disk Rusak" />
+        <EmbeddedText Flags="" Id="DISK_CORRUPT_DESC" Notes="" Text="Disk tampaknya rusak" />
+        <EmbeddedText Flags="" Id="DELETE_CORRUPT_SAVE_TITLE" Notes="" Text="Hapus Simpanan yang Rusak" />
+        <EmbeddedText Flags="" Id="DELETE_CORRUPT_SAVE_DESC" Notes="" Text="Apakah Anda yakin ingin menghapus simpanan ini?" />
+        <EmbeddedText Flags="" Id="DELETE_INVALID_SAVE_TITLE" Notes="" Text="Hapus Penyimpanan Tidak Valid" />
+        <EmbeddedText Flags="" Id="DELETE_INVALID_SAVE_DESC" Notes="" Text="Apakah Anda yakin ingin menghapus simpanan ini?" />
+        <EmbeddedText Flags="" Id="SAVE_GAME_DELETED_TITLE" Notes="" Text="Simpan Game Dihapus" />
+        <EmbeddedText Flags="" Id="SAVE_GAME_DELETED_DESC" Notes="" Text="Simpan permainan telah dihapus" />
+        <EmbeddedText Flags="" Id="DELETE_ERROR_TITLE" Notes="" Text="Hapus Kesalahan" />
+        <EmbeddedText Flags="" Id="DELETE_ERROR_DESC" Notes="" Text="Tidak dapat menghapus simpanan permainan" />
+        <EmbeddedText Flags="" Id="OPT_TEXT_CANCEL" Notes="" Text="Batalkan" />
+        <EmbeddedText Flags="" Id="OPT_TEXT_CHOOSE_STORAGE_DEVICE" Notes="" Text="Pilih perangkat penyimpanan" />
+        <EmbeddedText Flags="" Id="OPT_TEXT_CONTINUE" Notes="" Text="Lanjutkan" />
+        <EmbeddedText Flags="" Id="OPT_TEXT_CONTINUE_WITHOUT_SAVING" Notes="" Text="Lanjutkan tanpa menyimpan" />
+        <EmbeddedText Flags="" Id="OPT_TEXT_CREATE" Notes="" Text="Buat" />
+        <EmbeddedText Flags="" Id="OPT_TEXT_DELETE" Notes="" Text="Hapus" />
+        <EmbeddedText Flags="" Id="OPT_TEXT_LOAD" Notes="" Text="Memuat" />
+        <EmbeddedText Flags="" Id="OPT_TEXT_NO" Notes="" Text="Tidak" />
+        <EmbeddedText Flags="" Id="OPT_TEXT_OK" Notes="" Text="Oke" />
+        <EmbeddedText Flags="" Id="OPT_TEXT_OVERWRITE" Notes="" Text="Timpa" />
+        <EmbeddedText Flags="" Id="OPT_TEXT_SAVE_ON_THIS_DEVICE" Notes="" Text="Hemat di perangkat penyimpanan ini" />
+        <EmbeddedText Flags="" Id="OPT_TEXT_SELECT_DEVICE" Notes="" Text="Pilih perangkat penyimpanan" />
+        <EmbeddedText Flags="" Id="OPT_TEXT_YES" Notes="" Text="Ya" />
+        <EmbeddedText Flags="" Id="DELETE_SAVED_GAME_TITLE" Notes="" Text="Hapus Game Tersimpan" />
+        <EmbeddedText Flags="" Id="DELETE_SAVED_GAME_DESC" Notes="" Text="Menghapus permainan yang disimpan akan menghancurkan semua kemajuan dalam slot penyimpanan ini.  Slot akan tersedia untuk permainan baru.  Apa kamu yakin?" />
+        <EmbeddedText Flags="" Id="AUTOSAVE_NOTICE_XBOX" Notes="" Text="Game ini mendukung fitur penyimpanan otomatis. Saat Anda melihat ikon ini, mohon jangan matikan konsol Anda atau lepaskan perangkat penyimpanan." />
+        <EmbeddedText Flags="" Id="AUTOSAVE_NOTICE_PC" Notes="" Text="Game ini mendukung fitur penyimpanan otomatis. Ketika Anda melihat ikon ini mohon jangan matikan komputer Anda atau lepaskan perangkat penyimpanan." />
+        <EmbeddedText Flags="" Id="CONTENT_REMOVED_ERROR_TITLE" Notes="" Text="Konten Game Dihapus" />
+        <EmbeddedText Flags="" Id="CONTENT_REMOVED_ERROR_DESC" Notes="" Text="Permainan sekarang akan keluar." />
+        <EmbeddedText Flags="" Id="TRANSFER_SAVE" Notes="" Text="Ekspor simpanan game ke penyimpanan cloud" />
+        <EmbeddedText Flags="" Id="TRANSFER_SAVE_TITLE" Notes="" Text="Mengekspor simpanan game ke cloud." />
+        <EmbeddedText Flags="" Id="TRANSFER_SAVE_WARNING" Notes="" Text="Saat Anda melihat ikon simpan, harap jangan matikan konsol Anda." />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Connection Warnings">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="WARN_DISCONNECT" Notes="" Text="Anda tidak terhubung ke Xbox Live.  Skor Anda tidak akan dicatat ke papan peringkat saat koneksi terputus." />
+        <EmbeddedText Flags="" Id="SIGNED_OUT_TITLE" Notes="" Text="Keluar" />
+        <EmbeddedText Flags="" Id="SIGNED_OUT_BODY" Notes="" Text="Terjadi perubahan masuk. Anda sekarang dikembalikan ke layar judul." />
+        <EmbeddedText Flags="" Id="NOT_SIGNED_IN_ACHIEVEMENTS" Notes="" Text="Pencapaian tidak tersedia jika Anda tidak masuk." />
+        <EmbeddedText Flags="" Id="NOT_SIGNED_IN_LEADERBOARDS" Notes="" Text="Papan peringkat tidak tersedia jika Anda belum masuk." />
+        <EmbeddedText Flags="" Id="NOT_SIGNED_IN_PURCHASE_BODY" Notes="" Text="Anda harus masuk ke Xbox Live untuk membeli game lengkapnya." />
+        <EmbeddedText Flags="" Id="NOT_SIGNED_IN_PURCHASE_TITLE" Notes="" Text="Xbox Langsung" />
+        <EmbeddedText Flags="" Id="NOT_SIGNED_IN_DLC1_PURCHASE_BODY" Notes="" Text="Anda harus masuk ke Xbox Live untuk membeli Breakdown." />
+        <EmbeddedText Flags="" Id="NOT_SIGNED_IN" Notes="" Text="Tidak masuk" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="SystemMenus">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="SYS_ACHIEVEMENTS" Notes="" Text="Prestasi" />
+        <EmbeddedText Flags="" Id="SYS_CONFIRM_EXIT_TO_MAIN_MENU_BODY" Notes="" Text="Apakah Anda yakin ingin keluar? Kemajuan apa pun yang belum disimpan akan hilang." />
+        <EmbeddedText Flags="" Id="SYS_CONFIRM_EXIT_TO_MAIN_MENU_TITLE" Notes="" Text="Keluar dari Permainan" />
+        <EmbeddedText Flags="" Id="SYS_CONTINUE" Notes="" Text="Lanjutkan" />
+        <EmbeddedText Flags="" Id="SYS_EXIT_GAME" Notes="" Text="Keluar dari Permainan" />
+        <EmbeddedText Flags="" Id="SYS_HELP" Notes="" Text="Bantuan" />
+        <EmbeddedText Flags="" Id="SYS_HELP_OPTIONS" Notes="" Text="Bantuan &amp; Opsi" />
+        <EmbeddedText Flags="" Id="SYS_LEADERBOARDS" Notes="" Text="Papan peringkat" />
+        <EmbeddedText Flags="" Id="SYS_MAIN_MENU" Notes="" Text="Menu Utama" />
+        <EmbeddedText Flags="" Id="SYS_NEW_GAME" Notes="" Text="Mulai Permainan Baru" />
+        <EmbeddedText Flags="" Id="SYS_PAUSE_MENU_TITLE" Notes="" Text="Menu Permainan" />
+        <EmbeddedText Flags="" Id="SYS_PRESS_START" Notes="was 'Press Start'" Text="Tekan" />
+        <EmbeddedText Flags="" Id="SYS_RESUME" Notes="" Text="Lanjutkan Permainan" />
+        <EmbeddedText Flags="" Id="SYS_SAVE_AND_EXIT" Notes="" Text="Keluar dari Permainan" />
+        <EmbeddedText Flags="" Id="SYS_UNLOCK_GAME" Notes="" Text="Buka Kunci Game Penuh" />
+        <EmbeddedText Flags="" Id="SYS_USER_SIGN_IN_BODY" Notes="" Text="Apakah Anda ingin masuk? Jika tidak, Anda tidak akan dapat menyimpan kemajuan." />
+        <EmbeddedText Flags="" Id="SYS_USER_SIGN_IN_TITLE" Notes="" Text="Masuk" />
+        <EmbeddedText Flags="" Id="HELP_HOW_TO_PLAY" Notes="" Text="Cara Bermain" />
+        <EmbeddedText Flags="" Id="HELP_CONTROLS" Notes="" Text="Kontrol" />
+        <EmbeddedText Flags="" Id="HELP_SETTINGS" Notes="" Text="Pengaturan" />
+        <EmbeddedText Flags="" Id="HELP_CREDITS" Notes="" Text="Kredit" />
+        <EmbeddedText Flags="" Id="SETTINGS_SFX_VOLUME" Notes="Sound Effect Volume" Text="Volume SFX" />
+        <EmbeddedText Flags="" Id="SETTINGS_VOICE_VOLUME" Notes="" Text="Volume Suara" />
+        <EmbeddedText Flags="" Id="SETTINGS_MUSIC_VOLUME" Notes="" Text="Volume Musik" />
+        <EmbeddedText Flags="" Id="SETTINGS_SUBTITLES" Notes="" Text="Subtitle" />
+        <EmbeddedText Flags="" Id="SETTINGS_INVERT_Y_AXIS" Notes="" Text="Balikkan Sumbu Y" />
+        <EmbeddedText Flags="" Id="SETTINGS_INVERT_X_AXIS" Notes="" Text="Balikkan Sumbu X" />
+        <EmbeddedText Flags="" Id="SETTINGS_CONTROLLER_VIBRATION" Notes="" Text="Getaran Pengontrol" />
+        <EmbeddedText Flags="" Id="SETTINGS_STORAGE_LOCATION" Notes="" Text="Ubah Lokasi Penyimpanan" />
+        <EmbeddedText Flags="" Id="SETTINGS_REVERT_TO_DEFAULTS" Notes="" Text="Kembalikan ke Default" />
+        <EmbeddedText Flags="" Id="SETTINGS_HINT_DURATION" Notes="" Text="Durasi Petunjuk" />
+        <EmbeddedText Flags="" Id="FRONTEND_BACK" Notes="" Text="Kembali" />
+        <EmbeddedText Flags="" Id="FRONTEND_SAVE_EXIT" Notes="" Text="Simpan dan Keluar" />
+        <EmbeddedText Flags="" Id="SETTINGS_SENSITIVITY" Notes="" Text="Sensitivitas Pengontrol" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_MIN" Notes="" Text="Grafik - Spesifikasi Min" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_MED" Notes="" Text="Grafik - Spesifikasi Sedang" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_MAX" Notes="" Text="Grafik - Spesifikasi Maksimum" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_ULTRA" Notes="" Text="Grafik - Spesifikasi Ultra" />
+        <EmbeddedText Flags="" Id="SETTINGS_SPEAKERS_MONO" Notes="" Text="Pembicara - Mono" />
+        <EmbeddedText Flags="" Id="SETTINGS_SPEAKERS_STEREO" Notes="" Text="Pembicara - Stereo" />
+        <EmbeddedText Flags="" Id="SETTINGS_SPEAKERS_QUAD" Notes="" Text="Pembicara - QSound" />
+        <EmbeddedText Flags="" Id="SETTINGS_SPEAKERS_SURROUND" Notes="" Text="Pembicara - Kelilingi" />
+        <EmbeddedText Flags="" Id="SETTINGS_SPEAKERS_5POINT1" Notes="" Text="Pembicara - Dolby 5,1" />
+        <EmbeddedText Flags="" Id="SETTINGS_SPEAKERS_7POINT1" Notes="" Text="Pembicara - Dolby 7.1" />
+        <EmbeddedText Flags="" Id="SETTINGS_SPEAKERS_PROLOGIC" Notes="" Text="Pembicara - Dolby ProLogic" />
+        <EmbeddedText Flags="" Id="SETTINGS_VSYNC" Notes="" Text="Sinkronisasi V" />
+        <EmbeddedText Flags="" Id="SETTINGS_FULLSCREEN" Notes="" Text="Layar penuh" />
+        <EmbeddedText Flags="" Id="SETTINGS_GAMMA" Notes="" Text="gamma" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS" Notes="" Text="Pengaturan Grafik" />
+        <EmbeddedText Flags="" Id="SETTINGS_GAME" Notes="" Text="Pengaturan Permainan" />
+        <EmbeddedText Flags="" Id="SETTINGS_SOUND" Notes="" Text="Pengaturan Suara" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_ASPECT_RATIO" Notes="" Text="Rasio Aspek" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION" Notes="" Text="Resolusi Layar" />
+        <EmbeddedText Flags="" Id="SELECT_SAVE_SLOT" Notes="" Text="Pilih Simpan Slot" />
+        <EmbeddedText Flags="" Id="EMPTY_SAVE_SLOT" Notes="" Text="- Kosong -" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_480p" Notes="" Text="Resolusi 480p" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_720p" Notes="" Text="Resolusi 720p" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_1080p" Notes="" Text="Resolusi 1080p" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_2160p" Notes="" Text="Resolusi 2160p" />
+        <EmbeddedText Flags="" Id="TICKER_EMBEDDED" Notes="" Text="Selamat datang di Keadaan Pembusukan!  Bergabunglah dengan sesama penyintas di forums.undeadlabs.com untuk mendapatkan tips dan berita game!" />
+        <EmbeddedText Flags="" Id="SYS_PLAY_GAME" Notes="" Text="Mainkan Permainan" />
+        <EmbeddedText Flags="" Id="DELETE_SAVE_SLOT" Notes="" Text="Hapus Game Tersimpan" />
+        <EmbeddedText Flags="" Id="SYS_START_GAME" Notes="" Text="Mulai Permainan" />
+        <EmbeddedText Flags="" Id="SYS_PLAY_SOD" Notes="" Text="Mainkan Keadaan Pembusukan" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_ASPECT_RATIO_16X9" Notes="" Text="Rasio Aspek - 16:9" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_ASPECT_RATIO_4X3" Notes="" Text="Rasio Aspek - 4:3" />
+        <EmbeddedText Flags="" Id="SETTINGS_MOUSE_SENSITIVITY" Notes="" Text="Sensitivitas Tikus" />
+        <EmbeddedText Flags="" Id="SETTINGS_MOUSE_INVERT_X_AXIS" Notes="" Text="Mouse Balikkan Sumbu X" />
+        <EmbeddedText Flags="" Id="SETTINGS_MOUSE_INVERT_Y_AXIS" Notes="" Text="Mouse Balikkan Sumbu Y" />
+        <EmbeddedText Flags="" Id="SETTINGS_CONTROLLER_INVERT_X_AXIS" Notes="" Text="Pengontrol Balikkan Sumbu X" />
+        <EmbeddedText Flags="" Id="SETTINGS_CONTROLLER_INVERT_Y_AXIS" Notes="" Text="Pengontrol Balikkan Sumbu Y" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_ASPECT_RATIO_16X10" Notes="" Text="Rasio Aspek - 16:10" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_640x480" Notes="" Text="Resolusi 640x480" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_800x600" Notes="" Text="Resolusi 800x600" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_1024x768" Notes="" Text="Resolusi 1024x768" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_1280x1024" Notes="" Text="Resolusi 1280x1024" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_2048x1536" Notes="" Text="Resolusi 2048x1536" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_1280x720" Notes="" Text="Resolusi 1280x720" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_1366x768" Notes="" Text="Resolusi 1366x768" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_1600x900" Notes="" Text="Resolusi 1600x900" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_1920x1080" Notes="" Text="Resolusi 1920x1080" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_3840x2160" Notes="" Text="Resolusi 3840x2160" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_1280x800" Notes="" Text="Resolusi 1280x800" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_1440x900" Notes="" Text="Resolusi 1440x900" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_1680x1050" Notes="" Text="Resolusi 1680x1050" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_1920x1200" Notes="" Text="Resolusi 1920x1200" />
+        <EmbeddedText Flags="" Id="SETTINGS_GRAPHICS_RESOLUTION_2560x1600" Notes="" Text="Resolusi 2560x1600" />
+        <EmbeddedText Flags="" Id="SETTINGS_GAMEDVR" Notes="" Text="DVR Permainan" />
+        <EmbeddedText Flags="" Id="SETTINGS_GAMEDVR_HUMAN_DEATHS" Notes="" Text="Kematian manusia yang kritis" />
+        <EmbeddedText Flags="" Id="SETTINGS_GAMEDVR_ZOMBIE_KILLS" Notes="" Text="Pembunuhan zombie terbaik" />
+        <EmbeddedText Flags="" Id="SETTINGS_GAMEDVR_AUTORECORD" Notes="" Text="Rekam Otomatis DVR Game" />
+        <EmbeddedText Flags="" Id="SYS_CONTROLLER_DISCONNECTED_TITLE" Notes="" Text="Pengontrol terputus." />
+        <EmbeddedText Flags="" Id="SYS_CONTROLLER_DISCONNECTED" Notes="" Text="Hubungkan kembali pengontrol Anda untuk melanjutkan." />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Journal">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="J_EXIT" Notes="" Text="Tutup" />
+        <EmbeddedText Flags="" Id="J_EXIT_SUBMENU" Notes="" Text="Kembali" />
+        <EmbeddedText Flags="" Id="J_ACTION_DESC_INPUT" Notes="" Text="Biaya" />
+        <EmbeddedText Flags="" Id="J_ACTION_DESC_OUTPUT" Notes="" Text="Membuka kunci" />
+        <EmbeddedText Flags="" Id="J_AVAILABLE_ACTIONS" Notes="" Text="Tindakan yang Tersedia:" />
+        <EmbeddedText Flags="" Id="J_NO_ACTIONS" Notes="" Text="Tidak Ada Tindakan yang Tersedia" />
+        <EmbeddedText Flags="" Id="J_AVAILABLE_FACILITIES" Notes="" Text="Fasilitas yang Tersedia:" />
+        <EmbeddedText Flags="" Id="J_BUILDING_FACILITY" Notes="" Text="Sedang Dibangun" />
+        <EmbeddedText Flags="" Id="J_CANCEL_ACTION" Notes="" Text="Batalkan Tindakan" />
+        <EmbeddedText Flags="" Id="J_CANCEL_FACILITY" Notes="" Text="Batalkan Tindakan" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_ACTION_DEAD" Notes="" Text="Mati" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_ACTION_MISSION" Notes="" Text="Dalam sebuah misi" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_ACTION_AWAY" Notes="" Text="Jauh dari rumah" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_ACTION_TRAINING" Notes="" Text="Di rumah" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_ACTION_TIRED" Notes="" Text="Lelah" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_ACTION_STAFF" Notes="Trailing space" Text="Staf: " />
+        <EmbeddedText Flags="" Id="J_CHARACTER_ACTION_MISSING" Notes="" Text="Hilang" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_ACTION_BUSY_UNKNOWN" Notes="" Text="Sibuk Tidak Diketahui" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_ACTION_IDLE" Notes="" Text="Di rumah" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_ACTION_RIDING_SHOTGUN" Notes="" Text="Mengikuti Anda" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_ASSUME_CONTROL" Notes="" Text="Beralih ke" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_BEFRIEND" Notes="" Text="Berteman" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_IS_ACQUAINTANCE" Notes="" Text="Tamu" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_IS_FAMILY" Notes="" Text="Teman" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_IS_PLAYER" Notes="" Text="kamu" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_NEEDED" Notes="" Text="Membutuhkan Seseorang" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_WANT_NEEDED" Notes="Trailing space" Text="Kebutuhan: " />
+        <EmbeddedText Flags="" Id="J_CHOOSE_ACTION" Notes="" Text="Pilih" />
+        <EmbeddedText Flags="" Id="J_CHOOSE_FACILITY" Notes="" Text="Membangun" />
+        <EmbeddedText Flags="" Id="J_CHOOSE_PERSON" Notes="" Text="Tetapkan" />
+        <EmbeddedText Flags="" Id="J_DISPLAY_ACTION_OPTIONS" Notes="" Text="Pilih Tindakan" />
+        <EmbeddedText Flags="" Id="J_DISPLAY_FACILITY_INFO" Notes="" Text="Informasi Fasilitas" />
+        <EmbeddedText Flags="" Id="J_DISPLAY_FACILITY_OPTIONS" Notes="" Text="Pilih Fasilitas" />
+        <EmbeddedText Flags="" Id="J_DISPLAY_PERSON_OPTIONS" Notes="" Text="Tetapkan Orang" />
+        <EmbeddedText Flags="" Id="J_UNASSIGN_PERSON" Notes="" Text="Batalkan Penetapan Orang" />
+        <EmbeddedText Flags="" Id="J_FACILITY_BONUSES" Notes="" Text="Bonus Fasilitas" />
+        <EmbeddedText Flags="" Id="J_GENERAL_SPECIALIZATION_HEADING" Notes="" Text="Umum" />
+        <EmbeddedText Flags="" Id="J_GENERAL_SPECIALIZATION_DESCRIPTION" Notes="" Text=" " />
+        <EmbeddedText Flags="" Id="J_GUN_BROKEN" Notes="" Text="Macet" />
+        <EmbeddedText Flags="" Id="J_GUN_DAMAGED" Notes="" Text="Rusak" />
+        <EmbeddedText Flags="" Id="J_MORE_INFO" Notes="" Text="Detail" />
+        <EmbeddedText Flags="" Id="J_UNUSED_FACILITY_SLOT" Notes="" Text="Tersedia" />
+        <EmbeddedText Flags="" Id="J_WEAPON_DAMAGED" Notes="" Text="Rusak" />
+        <EmbeddedText Flags="" Id="J_BASE_NAME" Notes="" Text="Gereja Pabrik Spencer" />
+        <EmbeddedText Flags="" Id="J_RADIO_BUY" Notes="" Text="Beli" />
+        <EmbeddedText Flags="" Id="J_RADIO_CHANNEL_0_NAME" Notes="" Text="Radio" />
+        <EmbeddedText Flags="" Id="J_RADIO_CHANNEL_1_NAME" Notes="" Text="Ekstra" />
+        <EmbeddedText Flags="" Id="J_NOTE_NEED_STAFF" Notes="Facility needs a staff member assigned to it" Text="Butuh Staf" />
+        <EmbeddedText Flags="" Id="J_NOTE_NEED_RESOURCE_1" Notes="" Text="Tidak Cukup %s" />
+        <EmbeddedText Flags="" Id="J_NOTE_NEED_RESOURCE_2" Notes="" Text="Butuh Lebih Banyak %s" />
+        <EmbeddedText Flags="" Id="J_NOTE_WANT" Notes="" Text="Cari %s" />
+        <EmbeddedText Flags="" Id="J_HOME" Notes="" Text="Rumah" />
+        <EmbeddedText Flags="" Id="J_PEOPLE" Notes="" Text="Komunitas" />
+        <EmbeddedText Flags="" Id="J_EXPERTISE" Notes="" Text="selamat" />
+        <EmbeddedText Flags="" Id="J_EXPERTISE_ABILITIES_HEADING" Notes="" Text="Kemampuan" />
+        <EmbeddedText Flags="" Id="J_EXPERTISE_ABILITY_AVAILABLE" Notes="" Text=" " />
+        <EmbeddedText Flags="" Id="J_EXPERTISE_ABILITY_UNAVAILABLE" Notes="" Text="Terkunci" />
+        <EmbeddedText Flags="" Id="J_EXPERTISE_ABILITY_NEED_LEVEL" Notes="" Text=" " />
+        <EmbeddedText Flags="" Id="J_EXPERTISE_UNLOCK" Notes="" Text="Pilih" />
+        <EmbeddedText Flags="" Id="J_EXPERTISE_UNLOCK_HOLD" Notes="" Text="Pilih (Tahan)" />
+        <EmbeddedText Flags="" Id="J_EXPERTISE_UNLOCK_WARN_TITLE" Notes="" Text="Perhatian!" />
+        <EmbeddedText Flags="" Id="J_EXPERTISE_UNLOCK_WARN_BODY" Notes="" Text="Pilihan bersifat final untuk setiap karakter. Tahan [ui_x] untuk memilih." />
+        <EmbeddedText Flags="" Id="J_EXPERTISE_UNLOCK_EXPLAIN" Notes="" Text="Pilih spesialisasi" />
+        <EmbeddedText Flags="" Id="J_ASSETS" Notes="" Text="Aset" />
+        <EmbeddedText Flags="" Id="J_EVENTS" Notes="" Text="Acara" />
+        <EmbeddedText Flags="" Id="J_DISTANCE_FORMAT" Notes="" Text="%d m" />
+        <EmbeddedText Flags="" Id="J_SOUND_FORMAT" Notes="" Text="%d dB" />
+        <EmbeddedText Flags="" Id="J_WEIGHT_FORMAT" Notes="Used for item weights at least a pound" Text="%.1f pon" />
+        <EmbeddedText Flags="" Id="J_WEIGHT_LIGHT_FORMAT" Notes="Used for item weights less than a pound" Text="%.2f pon" />
+        <EmbeddedText Flags="" Id="J_WEIGHT_MIN" Notes="Used for item weights less than 0.01 pounds" Text="&lt;0,01 pon" />
+        <EmbeddedText Flags="" Id="J_EVENT_DAY_FORMAT" Notes="" Text="Hari %d" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_EFFECT_TRUST" Notes="" Text="%+d Percaya" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_EFFECT_DIED" Notes="" Text="Meninggal." />
+        <EmbeddedText Flags="" Id="J_CHARACTER_EFFECT_JOINED" Notes="" Text="Bergabung dengan komunitas kami" />
+        <EmbeddedText Flags="" Id="J_ADVISOR" Notes="Indicates that the character is an advisor" Text="Penasihat: %1$s" />
+        <EmbeddedText Flags="" Id="J_REWARD_FOOD" Notes="" Text="%+d Jatah Makanan Harian" />
+        <EmbeddedText Flags="" Id="J_REWARD_AMMO" Notes="" Text="%+d Kotak Amunisi" />
+        <EmbeddedText Flags="" Id="J_REWARD_MEDICINE" Notes="" Text="%+d Kasus Kedokteran" />
+        <EmbeddedText Flags="" Id="J_REWARD_FUEL" Notes="" Text="%+d Barel Bahan Bakar" />
+        <EmbeddedText Flags="" Id="J_REWARD_MATERIALS" Notes="" Text="%+d Bahan Konstruksi" />
+        <EmbeddedText Flags="" Id="J_INFLUENCE_COST" Notes="" Text="Biaya" />
+        <EmbeddedText Flags="" Id="J_INFLUENCE_VALUE" Notes="" Text="Nilai" />
+        <EmbeddedText Flags="" Id="J_TAB_PEOPLE" Notes="" Text="Komunitas" />
+        <EmbeddedText Flags="" Id="J_TAB_EXPERTISE" Notes="" Text="selamat" />
+        <EmbeddedText Flags="" Id="J_TAB_ASSETS" Notes="" Text="Aset" />
+        <EmbeddedText Flags="" Id="J_TAB_EVENTS" Notes="" Text="Acara" />
+        <EmbeddedText Flags="" Id="J_TAB_HOME" Notes="" Text="Rumah" />
+        <EmbeddedText Flags="" Id="J_TAB_CHALLENGE" Notes="" Text="Tantangan" />
+        <EmbeddedText Flags="" Id="J_STORAGE_CAP" Notes="param is the maxium count of resources that can be stored" Text="Penyimpanan Maks: %1$d" />
+        <EmbeddedText Flags="" Id="J_PORTRAIT_DEAD" Notes="" Text="MATI" />
+        <EmbeddedText Flags="" Id="J_PORTRAIT_MISSING" Notes="" Text="HILANG" />
+        <EmbeddedText Flags="" Id="J_PORTRAIT_SICK" Notes="" Text="SAKIT" />
+        <EmbeddedText Flags="" Id="J_PORTRAIT_HURT" Notes="" Text="TERLUKA" />
+        <EmbeddedText Flags="" Id="J_PORTRAIT_TIRED" Notes="" Text="LELAH" />
+        <EmbeddedText Flags="" Id="J_VEHICLE_AT_HOME" Notes="" Text="(di rumah)" />
+        <EmbeddedText Flags="" Id="J_CHARACTER_CHECK_FRIENDSHIP" Notes="" Text="Periksa Persahabatan" />
+        <EmbeddedText Flags="" Id="J_DURATION_D_H" Notes="Duration with days and hours" Text="%2$dd; %2$djam" />
+        <EmbeddedText Flags="" Id="J_DURATION_H_M" Notes="Duration with hours and minutes" Text="%2$djam; %2$dm" />
+        <EmbeddedText Flags="" Id="J_DURATION_M" Notes="Duration in minutes" Text="%1$dm" />
+        <EmbeddedText Flags="" Id="J_DURATION_M_S" Notes="Duration in minutes and seconds" Text="%2$dm; %2$ds" />
+        <EmbeddedText Flags="" Id="J_DURATION_S" Notes="Duration in just seconds" Text="%1$ds" />
+        <EmbeddedText Flags="" Id="J_NOTE_ASSET_HINT" Notes="" Text="Lihat daftar kepemilikan Anda di sini - senjata, senjata, mobil, dan barang" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="UI Prompts">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="CHECK_FACILITY" Notes="" Text="Periksa %s" />
+        <EmbeddedText Flags="" Id="ATTACH_SUPPRESSOR" Notes="" Text="Lampirkan" />
+        <EmbeddedText Flags="" Id="EQUIP" Notes="" Text="Melengkapi" />
+        <EmbeddedText Flags="" Id="LOAD_AMMO" Notes="" Text="Isi Ulang Senjata" />
+        <EmbeddedText Flags="" Id="UNEQUIP" Notes="" Text="Buka perlengkapan" />
+        <EmbeddedText Flags="" Id="DESTROY_HOLD" Notes="" Text="Hancurkan (Tahan)" />
+        <EmbeddedText Flags="" Id="DAMAGED" Notes="Notification that plays when the player's current weapon gets damaged" Text="Rusak" />
+        <EmbeddedText Flags="" Id="USE_CONSUMABLE" Notes="" Text="Gunakan" />
+        <EmbeddedText Flags="" Id="PICK_UP_RUCKSACK" Notes="" Text="Ambil Ransel" />
+        <EmbeddedText Flags="" Id="HIDDEN" Notes="" Text="Tersembunyi" />
+        <EmbeddedText Flags="" Id="READ_NOTE" Notes="" Text="Baca" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Objective Text">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="OBJ_ASSASSINATE" Notes="" Text="Temukan dan Bunuh %s" />
+        <EmbeddedText Flags="" Id="OBJ_DELIVER_RUCKSACK" Notes="" Text="Bawa %s Pulang" />
+        <EmbeddedText Flags="" Id="OBJ_INFESTATION" Notes="" Text="Hapus Infestasi" />
+        <EmbeddedText Flags="" Id="OBJ_HORDE" Notes="" Text="Cegat Gerombolan Zombi" />
+        <EmbeddedText Flags="" Id="OBJ_SCOUT_RESCUE" Notes="" Text="Penyelamatan %s %s" />
+        <EmbeddedText Flags="" Id="OBJ_SCOUT_RESCUE_MULTI" Notes="" Text="Menyelamatkan Yang Hilang" />
+        <EmbeddedText Flags="" Id="OBJ_SCOUT_RESOURCE" Notes="" Text="Telusuri %s" />
+        <EmbeddedText Flags="" Id="OBJ_WANT_ACQUIRED_TARGET" Notes="" Text="Bawa %2$s ke %2$s" />
+        <EmbeddedText Flags="" Id="OBJ_WANT_ACQUIRED_HOME" Notes="" Text="Bawa pulang %s" />
+        <EmbeddedText Flags="" Id="OBJ_WANT_SEARCHING" Notes="" Text="Mencari %s" />
+        <EmbeddedText Flags="" Id="OBJ_WAYPOINT_HOME_POTENTIAL" Notes="" Text="Waypoint (Potensi Rumah)" />
+        <EmbeddedText Flags="" Id="OBJ_WAYPOINT_HOME" Notes="" Text="Titik Jalan (Beranda)" />
+        <EmbeddedText Flags="" Id="OBJ_WAYPOINT_RUNNERS" Notes="" Text="Titik Jalan (Pelari)" />
+        <EmbeddedText Flags="" Id="OBJ_WAYPOINT_ENCLAVE" Notes="" Text="Titik Jalan (Enklave)" />
+        <EmbeddedText Flags="" Id="OBJ_WAYPOINT_OUTPOST" Notes="" Text="Titik Jalan (Pos terdepan)" />
+        <EmbeddedText Flags="" Id="OBJ_WAYPOINT" Notes="" Text="Titik jalan" />
+        <EmbeddedText Flags="" Id="OBJ_WAYPOINT_RESOURCE" Notes="" Text="Titik Jalan (%s)" />
+        <EmbeddedText Flags="" Id="OBJ_WAYPOINT_SEARCH" Notes="" Text="Titik Jalan (Pencarian)" />
+        <EmbeddedText Flags="" Id="OBJ_WAYPOINT_SURVEY" Notes="" Text="Titik Arah (Survei)" />
+        <EmbeddedText Flags="" Id="WAYPOINT_MISSION_OP" Notes="" Text="MISI" />
+        <EmbeddedText Flags="" Id="OBJ_SEARCH_BUILDING_PROGRESS" Notes="" Text="Kemajuan Pencarian" />
+        <EmbeddedText Flags="" Id="OBJ_DISTRACTION_PROGRESS" Notes="" Text="Kemajuan Gangguan" />
+        <EmbeddedText Flags="" Id="OBJ_GATHER_PROGRESS_BLOCKED" Notes="" Text="Kemajuan Diblokir" />
+        <EmbeddedText Flags="" Id="OBJ_GATHER_PROGRESS" Notes="" Text="Kumpulkan Kemajuan" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Leaderboards">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="LB_GLOBAL" Notes="" Text="Global" />
+        <EmbeddedText Flags="" Id="LB_FRIENDS" Notes="" Text="Teman" />
+        <EmbeddedText Flags="" Id="LB_YOU" Notes="" Text="Skor Anda" />
+        <EmbeddedText Flags="" Id="LB_CHANGE_VIEW" Notes="" Text="Ubah Tampilan" />
+        <EmbeddedText Flags="" Id="LB_OFFLINE" Notes="" Text="Papan peringkat tidak tersedia jika tidak terhubung ke Xbox Live." />
+        <EmbeddedText Flags="" Id="LB_RETRIEVING_DATA" Notes="" Text="Mengambil Data" />
+        <EmbeddedText Flags="" Id="LB_SHOW_GAMERCARD" Notes="" Text="Tunjukkan Kartu Gamer" />
+        <EmbeddedText Flags="" Id="LB_TITLE_ZOMBIES_KILLED" Notes="" Text="Total Zombi yang Dibunuh" />
+        <EmbeddedText Flags="" Id="LB_SCORE_ZOMBIES_KILLED" Notes="" Text="Membunuh" />
+        <EmbeddedText Flags="" Id="LB_TITLE_FAME" Notes="" Text="Total Ketenaran yang Diperoleh" />
+        <EmbeddedText Flags="" Id="LB_SCORE_FAME" Notes="" Text="Ketenaran" />
+        <EmbeddedText Flags="" Id="LB_TITLE_ZOMBIE_SCORE" Notes="" Text="Poin Pembunuhan Zombie (Sepanjang Waktu)" />
+        <EmbeddedText Flags="" Id="LB_SCORE_ZOMBIE_SCORE" Notes="" Text="Poin" />
+        <EmbeddedText Flags="" Id="LB_TITLE_ZOMBIE_SCORE_WEEKLY" Notes="" Text="Poin Pembunuhan Zombie (Mingguan)" />
+        <EmbeddedText Flags="" Id="LB_SCORE_ZOMBIE_SCORE_WEEKLY" Notes="" Text="Poin" />
+        <EmbeddedText Flags="" Id="LB_UNRANKED_PLAYER" Notes="" Text="Anda tidak mendapat peringkat di papan peringkat ini." />
+        <EmbeddedText Flags="" Id="LB_UNRANKED_FRIENDS" Notes="" Text="Teman Anda tidak diberi peringkat di papan peringkat ini." />
+        <EmbeddedText Flags="" Id="LB_UNRANKED_ALL" Notes="" Text="Tidak ada seorang pun yang mendapat peringkat di papan peringkat ini." />
+        <EmbeddedText Flags="" Id="LB_RANK" Notes="" Text="Pangkat" />
+        <EmbeddedText Flags="" Id="LB_GAMERTAG" Notes="" Text="Pemain game" />
+        <EmbeddedText Flags="" Id="LB_TITLE_SCENARIO_SCORE" Notes="" Text="Kartu Skor Terbaik (Rincian)" />
+        <EmbeddedText Flags="" Id="LB_SCORE_SCENARIO" Notes="" Text="Skor" />
+        <EmbeddedText Flags="" Id="LB_TITLE_PLAYTHROUGH_SCORE" Notes="" Text="Permainan Terbaik (Rincian)" />
+        <EmbeddedText Flags="" Id="LB_SCORE_PLAYTHROUGH" Notes="" Text="Skor" />
+        <EmbeddedText Flags="" Id="LB_TITLE_COMBAT_SCORE" Notes="" Text="Skor Pertarungan (Rincian)" />
+        <EmbeddedText Flags="" Id="LB_SCORE_COMBAT" Notes="" Text="Skor" />
+        <EmbeddedText Flags="" Id="LB_TITLE_PROGRESS_SCORE" Notes="" Text="Skor Kemajuan Mingguan (Rincian)" />
+        <EmbeddedText Flags="" Id="LB_SCORE_PROGRESS" Notes="" Text="Skor" />
+        <EmbeddedText Flags="" Id="LB_TITLE_LIFELINE_SCORE" Notes="" Text="Skor Tinggi (Garis Hidup)" />
+        <EmbeddedText Flags="" Id="LB_SCORE_LIFELINE" Notes="" Text="Skor" />
+        <EmbeddedText Flags="" Id="LB_TITLE_LIFELINE_CIVILIANS" Notes="" Text="Warga Sipil Diselamatkan (Garis Hidup)" />
+        <EmbeddedText Flags="" Id="LB_SCORE_CIVILIANS" Notes="" Text="Warga sipil" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Map Icon Labels">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="MAP_LABEL_ASSASSINATE" Notes="" Text="Temukan dan Bunuh %s" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_DELIVER_RUCKSACK" Notes="" Text="Ransel %s" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_INFESTATION" Notes="" Text="Infestasi" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_HORDE" Notes="" Text="Cegat Gerombolan Zombi" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_SCOUT_RESCUE" Notes="" Text="Penyelamatan: %s" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_SCOUT_RESCUE_MULTI" Notes="" Text="Menyelamatkan Yang Hilang" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_SCOUT_RESOURCE" Notes="" Text="Kebutuhan Rumah: %s" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_WANT_TARGET" Notes="" Text="%2$s Kebutuhan: %2$s" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_WANT" Notes="" Text="Ingin: %s" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_ENEMY" Notes="" Text="Zombi" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_HOME_POTENTIAL" Notes="" Text="Pangkalan Rumah Potensial" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_HOME" Notes="" Text="Rumah" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_SURVIVOR" Notes="" Text="selamat" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_ENCLAVE" Notes="" Text="Daerah kantong %2$d (Percaya %2$d)" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_OBJECTIVE" Notes="" Text="Tujuan Saat Ini" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_PLAYER" Notes="" Text="Anda di sini" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_WAYPOINT" Notes="" Text="Titik jalan" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_BUILDING_DEPLETED" Notes="" Text="Tidak ada yang tersisa" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_BUILDING_UNKNOWN" Notes="" Text="Sumber daya: ????" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_BUILDING_RESOURCES" Notes="" Text="Sumber daya:" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_SURVEY" Notes="" Text="Titik Survei" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_SAFE_ZONE" Notes="" Text="Zona Aman" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_SAFE_ZONE_TIME" Notes="Displays minutes" Text="Zona Aman (%dm)" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_ZOMBIE_HORDE" Notes="" Text="Gerombolan Zombi Berkeliaran" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_MORALE" Notes="" Text="Semangat" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_ENCLAVE_TRUST" Notes="" Text="Percaya" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_SEARCH_PARTY_PROGRESS" Notes="" Text="Kemajuan Pencarian" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_OUTPOST_DEFENSE" Notes="" Text="Pos terdepan %d: Mempersiapkan Perangkap" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_OUTPOST_DEFENSE_READY" Notes="" Text="Pos terdepan %d: Perangkap Siap" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_INFESTATION_SCREAMERS" Notes="" Text="Penjerit" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_HOME_SITE_POP_REQ" Notes="" Text="Membutuhkan: %1$d Orang" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_HOME_SITE_MAT_REQ" Notes="" Text="Membutuhkan: %1$d Bahan" />
+        <EmbeddedText Flags="" Id="MAP_LABEL_VEHICLE" Notes="" Text="Kendaraan" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Map Needs">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="MAP_NEED_FOOD_DESPERATE" Notes="" Text="Sangat Membutuhkan Makanan" />
+        <EmbeddedText Flags="" Id="MAP_NEED_FOOD" Notes="" Text="Butuh Makanan" />
+        <EmbeddedText Flags="" Id="MAP_NEED_MEDICINE_DESPERATE" Notes="" Text="Sangat Membutuhkan Obat" />
+        <EmbeddedText Flags="" Id="MAP_NEED_MEDICINE" Notes="" Text="Butuh Obat" />
+        <EmbeddedText Flags="" Id="MAP_NEED_GUNS_DESPERATE" Notes="" Text="Sangat Membutuhkan Senjata" />
+        <EmbeddedText Flags="" Id="MAP_NEED_AMMO" Notes="" Text="Butuh Amunisi" />
+        <EmbeddedText Flags="" Id="MAP_NEED_MATERIALS" Notes="" Text="Membutuhkan Bahan Bangunan" />
+        <EmbeddedText Flags="" Id="MAP_ACTION_STALLED" Notes="" Text="&quot;%1$s&quot; terhenti." />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Activities">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="ACT_COMPLETE_MORALE_BONUS" Notes="" Text="%+d Semangat!" />
+        <EmbeddedText Flags="" Id="ACT_SCOUT_RESCUE_FOUND" Notes="" Text="Ditemukan %s!" />
+        <EmbeddedText Flags="" Id="ACT_SCOUT_RESCUE_FOUND_MULTI" Notes="" Text="Ditemukan NPC yang Hilang!" />
+        <EmbeddedText Flags="" Id="ACT_INTERCEPT_HORDE_FAIL" Notes="" Text="Lokasi Penuh Gerombolan Zombi!" />
+        <EmbeddedText Flags="" Id="ACT_INTERCEPT_HORDE_ADD" Notes="" Text="Gerombolan Zombi Masuk!" />
+        <EmbeddedText Flags="" Id="ACT_INTERCEPT_HORDE_NEARING" Notes="" Text="Gerombolan Zombi Mendekati Lokasi!" />
+        <EmbeddedText Flags="" Id="ACT_INTERCEPT_HORDE_VICTORY" Notes="" Text="Gerombolan Zombi Dibunuh!" />
+        <EmbeddedText Flags="" Id="ACT_INTERCEPT_HORDE_HOME_FAIL" Notes="" Text="Gerombolan Zombi Menyerang Rumah!" />
+        <EmbeddedText Flags="" Id="ACT_INTERCEPT_HORDE_HOME_ADD" Notes="" Text="Gerombolan Zombi Menuju Rumah!" />
+        <EmbeddedText Flags="" Id="ACT_INTERCEPT_HORDE_HOME_NEARING" Notes="" Text="Gerombolan Zombi Mendekati Rumah!" />
+        <EmbeddedText Flags="" Id="ACT_INTERCEPT_HORDE_HOME_VICTORY" Notes="" Text="Gerombolan Zombi Dibunuh!" />
+        <EmbeddedText Flags="" Id="ACT_DELIVER_RUCKSACK_COMPLETE" Notes="" Text="%s Dikumpulkan!" />
+        <EmbeddedText Flags="" Id="DELIVERED" Notes="" Text="%s Terkirim!" />
+        <EmbeddedText Flags="" Id="ACQUIRED" Notes="" Text="%s Diakuisisi!" />
+        <EmbeddedText Flags="" Id="NEED" Notes="" Text="Kebutuhan: %s" />
+        <EmbeddedText Flags="" Id="DELIVERED_WANT" Notes="" Text="Dikirim %2$s ke %2$s" />
+        <EmbeddedText Flags="" Id="ACT_SURVEY_ACTIVE" Notes="" Text="Survei" />
+        <EmbeddedText Flags="" Id="ACT_SURVEY_AIM_HINT" Notes="" Text="Tahan [ul_aim] untuk Survei" />
+        <EmbeddedText Flags="" Id="ACT_SURVEY_PROGRESSING" Notes="" Text="Memeriksa Situs" />
+        <EmbeddedText Flags="" Id="ACT_SURVEY_ENCLAVE" Notes="" Text="daerah kantong" />
+        <EmbeddedText Flags="" Id="ACT_SURVEY_INFESTATION" Notes="" Text="Infestasi" />
+        <EmbeddedText Flags="" Id="ACT_SURVEY_HORDE" Notes="" Text="Gerombolan Zombi" />
+        <EmbeddedText Flags="" Id="ACT_SURVEY_SEARCH_PARTY" Notes="" Text="Aktivitas Orang yang Selamat" />
+        <EmbeddedText Flags="" Id="ACT_SURVEY_DISCOVER" Notes="" Text="Ditemukan %s" />
+        <EmbeddedText Flags="" Id="ACT_SURVEY_VEHICLE" Notes="" Text="Kendaraan" />
+        <EmbeddedText Flags="" Id="ACT_DELIVER_RUCKSACK_ITEMS_ADDED_LOG" Notes="" Text="Item ditambahkan ke loker persediaan!" />
+        <EmbeddedText Flags="" Id="ACT_DELIVER_RUCKSACK_MAP_LABEL_BACKPACK" Notes="" Text="Barang Milik (%2$s %2$s)" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Resources">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="BOGUS_RESOURCE" Notes="" Text="Sumber daya tidak diketahui" />
+        <EmbeddedText Flags="" Id="RESOURCE_AMMO" Notes="" Text="amunisi" />
+        <EmbeddedText Flags="" Id="RESOURCE_FOOD" Notes="" Text="Makanan" />
+        <EmbeddedText Flags="" Id="RESOURCE_FUEL" Notes="" Text="Bahan bakar" />
+        <EmbeddedText Flags="" Id="RESOURCE_GUN" Notes="" Text="Senjata" />
+        <EmbeddedText Flags="" Id="RESOURCE_MATERIALS" Notes="" Text="Bahan" />
+        <EmbeddedText Flags="" Id="RESOURCE_MEDICINE" Notes="" Text="Kedokteran" />
+        <EmbeddedText Flags="" Id="RESOURCE_MELEE_WEAPONS" Notes="" Text="Senjata" />
+        <EmbeddedText Flags="" Id="RESOURCE_PEOPLE" Notes="" Text="Orang-orang" />
+        <EmbeddedText Flags="" Id="RESOURCE_MISSION" Notes="" Text="Misi" />
+        <EmbeddedText Flags="" Id="RESOURCE_NOTHING" Notes="" Text="Tidak ada" />
+        <EmbeddedText Flags="" Id="RESOURCE_COMMUNITY_CHEST" Notes="" Text="Loker Pasokan" />
+        <EmbeddedText Flags="" Id="RESOURCE_LABOR" Notes="" Text="Tenaga Kerja" />
+        <EmbeddedText Flags="" Id="RESOURCE_INFLUENCE" Notes="" Text="Pengaruh" />
+        <EmbeddedText Flags="" Id="RESOURCE_VEHICLE_INVENTORY" Notes="" Text="Penyimpanan Kendaraan" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Conversations">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="CONV_EXIT" Notes="" Text="Sudahlah." />
+        <EmbeddedText Flags="" Id="CONV_FAMILY_JOIN" Notes="" Text="Mari berteman." />
+        <EmbeddedText Flags="" Id="CONV_FAMILY_JOIN_DESC" Notes="" Text="Tambahkan %1$s sebagai TEMAN. Teman berbagi Ketenaran dan Pengaruh. Anda dapat beralih antar teman saat Anda tidak sedang menjalankan misi." />
+        <EmbeddedText Flags="" Id="CONV_FAMILY_JOIN_FAIL" Notes="" Text="Kita berteman, kan?" />
+        <EmbeddedText Flags="" Id="CONV_FAMILY_JOIN_FAIL_DESC" Notes="" Text="Cari tahu di mana Anda berdiri." />
+        <EmbeddedText Flags="" Id="CONV_ENCLAVE_JOIN" Notes="" Text="Minta %s untuk bergabung dengan rumah Anda?" />
+        <EmbeddedText Flags="" Id="CONV_PLAY_AS" Notes="" Text="aku kalah. Mengapa kamu tidak mengambil alih untuk sementara waktu?" />
+        <EmbeddedText Flags="" Id="CONV_PLAY_AS_DESC" Notes="" Text="Beralih ke %2$s dan biarkan %2$s istirahat. %2$s akan mendapatkan kembali Vitalitas dan Stamina maksimum saat beristirahat." />
+        <EmbeddedText Flags="" Id="CONV_COME_WITH_ME" Notes="" Text="Ikutlah denganku dan awasi punggungku." />
+        <EmbeddedText Flags="" Id="CONV_COME_WITH_ME_DESC" Notes="" Text="Mintalah %d menemani Anda dan bertarung bersama Anda. (%d Pengaruh)" />
+        <EmbeddedText Flags="" Id="CONV_COME_WITH_ME_NOT_AVAILABLE_DESC" Notes="" Text="%s tidak dapat menemani Anda saat ini. (%s)" />
+        <EmbeddedText Flags="" Id="CONV_BUGGER_OFF" Notes="" Text="Anda harus pulang." />
+        <EmbeddedText Flags="" Id="CONV_BUGGER_OFF_DESC" Notes="" Text="Kirim %1$s pulang." />
+        <EmbeddedText Flags="" Id="CONV_COME_WITH_ME_NO_INFLUENCE" Notes="" Text="Pengaruh Tidak Memadai" />
+        <EmbeddedText Flags="" Id="CONV_COME_WITH_ME_WONT" Notes="" Text="Menolak" />
+        <EmbeddedText Flags="" Id="CONV_COME_WITH_ME_TIRED" Notes="" Text="Lelah atau Cedera" />
+        <EmbeddedText Flags="" Id="CONV_HEADED_HOME" Notes="" Text="Waktunya pulang." />
+        <EmbeddedText Flags="" Id="CONV_GET_ON_RV" Notes="" Text="Pergi ke RV!" />
+        <EmbeddedText Flags="" Id="CONV_GET_ON_RV_DESC" Notes="" Text="Beritahu %s untuk naik RV." />
+        <EmbeddedText Flags="" Id="CONV_RV_FULL" Notes="" Text="RVnya penuh." />
+        <EmbeddedText Flags="" Id="CONV_RV_FULL_DESC" Notes="" Text="Tidak ada ruang untuk %s di RV." />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Mission">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="MISSION_COMPLETE" Notes="" Text="Misi Selesai" />
+        <EmbeddedText Flags="" Id="MISSION_OP_TAGGED" Notes="" Text="Titik Jalan Baru" />
+        <EmbeddedText Flags="" Id="MISSION_REWARD" Notes="" Text="%s%s %s" />
+        <EmbeddedText Flags="" Id="MISSION_SCRAPPED" Notes="" Text="Misi Dibatalkan" />
+        <EmbeddedText Flags="" Id="MISSION_RETURN_TO_AREA" Notes="Warning message displayed when players stray from a mission area" Text="Kembali ke area misi" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="SearchParty">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="SP_OBJECTIVE_ASK_FOR_SUPPLIES" Notes="param is a resource type" Text="Kebutuhan Tetangga %s" />
+        <EmbeddedText Flags="" Id="SP_OBJECTIVE_RESCUE_NPC" Notes="param is an npc name" Text="%s %s Hilang!" />
+        <EmbeddedText Flags="" Id="SP_SUPPLY_RUN_STATE_IDLE" Notes="param is a resource type" Text="%s Pengoperasian Pasokan: Persiapan" />
+        <EmbeddedText Flags="" Id="SP_SUPPLY_RUN_STATE_ARRIVE" Notes="param is a resource type" Text="%s Pengoperasian Pasokan: Sedang Bergerak" />
+        <EmbeddedText Flags="" Id="SP_SUPPLY_RUN_STATE_RETURN" Notes="param is a resource type" Text="%s Pengoperasian Pasokan: Sedang Bergerak" />
+        <EmbeddedText Flags="" Id="SP_SUPPLY_RUN_STATE_SEARCH" Notes="param is a resource type" Text="%s Supply Run: Pencarian (Baru Tiba)" />
+        <EmbeddedText Flags="" Id="SP_SUPPLY_RUN_STATE_GATHER" Notes="param1 is a resource type" Text="%s Proses Pasokan: Pencarian" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Upsell">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="UPSELL_HEADER" Notes="" Text="Keadaan Pembusukan" />
+        <EmbeddedText Flags="" Id="UPSELL_BACK_TO_MENU" Notes="" Text="Kembali ke Menu Utama" />
+        <EmbeddedText Flags="" Id="UPSELL_UNLOCK_FULL_VERSION" Notes="" Text="Buka Kunci Game Penuh" />
+        <EmbeddedText Flags="" Id="UPSELL_AWARD_HEADER" Notes="" Text="Anda memperoleh:" />
+        <EmbeddedText Flags="" Id="UPSELL_AWARD_BODY" Notes="" Text="Buka kunci game lengkap untuk menerimanya." />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Container">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="CTNR_FOUND_AMMO" Notes="" Text="Menemukan beberapa amunisi." />
+        <EmbeddedText Flags="" Id="CTNR_FOUND_FOOD" Notes="" Text="Menemukan beberapa makanan." />
+        <EmbeddedText Flags="" Id="CTNR_FOUND_FUEL" Notes="" Text="Menemukan bahan bakar." />
+        <EmbeddedText Flags="" Id="CTNR_FOUND_GUNS" Notes="" Text="Menemukan beberapa senjata." />
+        <EmbeddedText Flags="" Id="CTNR_FOUND_MATERIALS" Notes="" Text="Menemukan beberapa bahan." />
+        <EmbeddedText Flags="" Id="CTNR_FOUND_MEDICINE" Notes="" Text="Menemukan obat." />
+        <EmbeddedText Flags="" Id="CTNR_FOUND_WEAPONS" Notes="" Text="Menemukan beberapa senjata." />
+        <EmbeddedText Flags="" Id="CTNR_FOUND_ITEMS" Notes="" Text="Menemukan beberapa item yang tersisa." />
+        <EmbeddedText Flags="" Id="CTNR_FOUND_NOTHING" Notes="" Text="Tidak ada yang tersisa." />
+        <EmbeddedText Flags="" Id="CTNR_TAKE" Notes="" Text="Ambil" />
+        <EmbeddedText Flags="" Id="CTNR_TAKE_COUNT" Notes="" Text="Ambil %d" />
+        <EmbeddedText Flags="" Id="CTNR_RESUPPLY" Notes="" Text="Pasokan ulang" />
+        <EmbeddedText Flags="" Id="CTNR_LOAD_RUCKSACK" Notes="" Text="Muat Ransel (Tahan)" />
+        <EmbeddedText Flags="" Id="CTNR_BREAK_OPEN" Notes="" Text="Buka (Tahan)" />
+        <EmbeddedText Flags="" Id="CTNR_RADIO_HOME" Notes="" Text="Rumah Radio" />
+        <EmbeddedText Flags="" Id="CTNR_CLOSE" Notes="" Text="Tutup" />
+        <EmbeddedText Flags="" Id="CTNR_OK" Notes="" Text="Oke" />
+        <EmbeddedText Flags="" Id="CTNR_EMPTY_1" Notes="" Text="Tidak ada." />
+        <EmbeddedText Flags="" Id="CTNR_EMPTY_2" Notes="" Text="Kosong." />
+        <EmbeddedText Flags="" Id="CTNR_EMPTY_3" Notes="" Text="" />
+        <EmbeddedText Flags="" Id="CTNR_PLAYER_INVENTORY" Notes="" Text="Inventarisasi Pemain" />
+        <EmbeddedText Flags="" Id="CTNR_RETURN" Notes="" Text="Simpanan" />
+        <EmbeddedText Flags="" Id="CTNR_RETURN_COUNT" Notes="" Text="Simpanan %d" />
+        <EmbeddedText Flags="" Id="CTNR_SUPPLY_LOCKER" Notes="" Text="Loker Pasokan" />
+        <EmbeddedText Flags="" Id="CTNR_RETURN_RUCKSACK" Notes="" Text="Ransel Simpanan" />
+        <EmbeddedText Flags="" Id="CTNR_TAKE_RUCKSACK" Notes="" Text="Ambil ransel" />
+        <EmbeddedText Flags="" Id="CTNR_REPAIR" Notes="" Text="Perbaikan" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Search">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="SEARCH_TITLE" Notes="" Text="Mencari" />
+        <EmbeddedText Flags="" Id="SEARCH_FAST_INFO" Notes="" Text="Tahan [sprint] untuk mencari lebih cepat!" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="EventSummary">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="SUMMARY_REWARD_FOOD_FORMAT" Notes="" Text="%d Jatah Makanan Harian" />
+        <EmbeddedText Flags="" Id="SUMMARY_REWARD_MEDS_FORMAT" Notes="" Text="%d Kasus Kedokteran" />
+        <EmbeddedText Flags="" Id="SUMMARY_REWARD_AMMO_FORMAT" Notes="" Text="%d Kotak Amunisi" />
+        <EmbeddedText Flags="" Id="SUMMARY_REWARD_MATS_FORMAT" Notes="" Text="%d Bahan Konstruksi" />
+        <EmbeddedText Flags="" Id="SUMMARY_REWARD_FUEL_FORMAT" Notes="" Text="%1$d Barel Bahan Bakar" />
+        <EmbeddedText Flags="" Id="SUMMARY_REWARD_FAME_FORMAT" Notes="" Text="%+d Ketenaran." />
+        <EmbeddedText Flags="" Id="SUMMARY_REWARD_POPULATION_FORMAT" Notes="" Text="%1$d Populasi" />
+        <EmbeddedText Flags="" Id="SUMMARY_EFFECT_POPULATION_NAME" Notes="" Text="Anggota Komunitas" />
+        <EmbeddedText Flags="" Id="SUMMARY_EFFECT_POPULATION_FORMAT" Notes="" Text="%1$d Populasi" />
+        <EmbeddedText Flags="" Id="SPOILAGE_NAME" Notes="" Text="Sumber Daya Hilang" />
+        <EmbeddedText Flags="" Id="SPOILAGE_SUMMARY" Notes="" Text="Penyimpanan Maks terlampaui" />
+        <EmbeddedText Flags="" Id="SPOILAGE_TUTORIAL" Notes="" Text="Fasilitas PENYIMPANAN meningkatkan kapasitas penyimpanan maksimum Anda." />
+        <EmbeddedText Flags="" Id="SPOILAGE_DESC" Notes="" Text="Tidak ada gunanya menimbun lebih banyak sumber daya daripada yang dapat kita simpan dengan baik. -Lili" />
+        <EmbeddedText Flags="" Id="EVENT_NEW_FAMILY_MEMBER_DESC" Notes="" Text="Anda sekarang berteman dengan %1$s." />
+        <EmbeddedText Flags="" Id="EVENT_NEW_FAMILY_MEMBER" Notes="" Text="Teman Baru" />
+        <EmbeddedText Flags="" Id="EVENT_NEW_FAMILY_MEMBER_ARG" Notes="" Text="Apakah sekarang temanmu." />
+        <EmbeddedText Flags="" Id="EOD_RESULTS_NAME" Notes="" Text="Laporan Sumber Daya" />
+        <EmbeddedText Flags="" Id="EOD_RESULTS_SUMMARY" Notes="" Text="Sumber Daya Dikumpulkan dan Dikonsumsi" />
+        <EmbeddedText Flags="" Id="EOD_RESULTS_TUTORIAL" Notes="" Text="SUMBER DAYA dikumpulkan dan dikonsumsi ketika Anda pergi untuk waktu yang singkat." />
+        <EmbeddedText Flags="" Id="EOD_RESULTS_DESC" Notes="" Text="SUMBER DAYA membuat komunitas kami terus berjalan." />
+        <EmbeddedText Flags="" Id="BONUS_EOD_RESULTS_NAME" Notes="" Text="Laporan Sumber Daya Bonus" />
+        <EmbeddedText Flags="" Id="BONUS_EOD_RESULTS_SUMMARY" Notes="" Text="Sumber Daya Bonus Dikumpulkan" />
+        <EmbeddedText Flags="" Id="BONUS_EOD_RESULTS_TUTORIAL" Notes="" Text="SUMBER DAYA bonus dikumpulkan dari POST ketika Anda bepergian lebih dari satu hari asalkan Anda memiliki bahan untuk pemeliharaan." />
+        <EmbeddedText Flags="" Id="BONUS_EOD_RESULTS_DESC" Notes="" Text="SUMBER DAYA membuat komunitas kami terus berjalan." />
+        <EmbeddedText Flags="" Id="FACILITY_UPKEEP_FAILED_NAME" Notes="" Text="Pemeliharaan Pos Luar Gagal" />
+        <EmbeddedText Flags="" Id="FACILITY_UPKEEP_FAILED_SUMMARY" Notes="" Text="Bahan tidak mencukupi" />
+        <EmbeddedText Flags="" Id="FACILITY_UPKEEP_FAILED_TUTORIAL" Notes="" Text="Korban membutuhkan 1 Material untuk mempertahankan Pos Luar. Sebagai gantinya, mereka kembali dengan 3 sumber daya apa pun yang ada di Pos Luar." />
+        <EmbeddedText Flags="" Id="FACILITY_UPKEEP_FAILED_DESC" Notes="" Text="Pos terdepan menjaga persediaan SUMBER DAYA kami." />
+        <EmbeddedText Flags="" Id="EVENT_NEW_MILITARY_OFFICER_DESC" Notes="" Text="Para petinggi telah memberikan %1$s lebih banyak keleluasaan operasional." />
+        <EmbeddedText Flags="" Id="EVENT_NEW_MILITARY_OFFICER" Notes="" Text="Promosi Lapangan" />
+        <EmbeddedText Flags="" Id="EVENT_NEW_MILITARY_OFFICER_ARG" Notes="" Text="Sekarang dapat dimainkan." />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="How To Play">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="HTP_HEADING_SURVIVAL" Notes="" Text="Kelangsungan hidup" />
+        <EmbeddedText Flags="" Id="HTP_TEXT_SURVIVAL" Notes="" Text="State of Decay adalah dunia sandbox terbuka yang berkembang secara real time, secara dinamis merespons tindakan Anda, pilihan yang Anda buat, dan ancaman zombie yang terus meningkat. Putuskan di mana Anda ingin membangun tempat berlindung yang aman bagi Anda dan para penyintas lain yang telah Anda selamatkan, lalu cari pasokan penting dan hubungi pelari untuk mengumpulkan sumber daya dan menciptakan rantai pasokan. Gunakan bahan yang telah Anda kumpulkan untuk membangun dan meningkatkan markas Anda, tapi hati-hati! Sumber daya akan habis saat Anda menjarah area, dan zombie tertarik pada kebisingan dan aktivitas. Lakukan serangan dengan menyerang gerombolan sebelum mereka mencapai rumah Anda, atau fokus pada meningkatkan pertahanan Anda melawan serangan zombi massal. Setiap pilihan dan tindakan penting dalam dunia yang sepenuhnya disimulasikan dan terus berkembang ini." />
+        <EmbeddedText Flags="" Id="HTP_HEADING_HOME_BASE" Notes="" Text="Pangkalan Rumah" />
+        <EmbeddedText Flags="" Id="HTP_TEXT_HOME_BASE" Notes="" Text="Kelola Rumah Anda melalui Jurnal Anda. Di sini Anda dapat melihat status seluruh anggota komunitas Anda, termasuk Vitalitas, Stamina, inventaris, keterampilan, kondisi terkini, dan karakter menarik. Mendapatkan persahabatan dengan penyintas lainnya membuka kemampuan untuk bermain sebagai mereka. Bantu pastikan kelangsungan hidup jangka panjang Anda dengan mencari perbekalan, menyelamatkan lebih banyak orang yang selamat untuk bergabung dengan komunitas Anda, dan membangun fasilitas yang memungkinkan Anda menciptakan sumber daya sendiri. Setiap pangkalan memiliki kombinasi unik antara fasilitas bawaan serta ruang untuk membangun milik Anda sendiri. Merasa sempit? Butuh ruang untuk berkembang? Carilah lokasi baru yang menawarkan perlindungan dan ruang yang dibutuhkan komunitas Anda untuk berkembang. Awasi persediaan Anda karena kekuatan persediaan Anda berdampak langsung pada moral komunitas Anda. Semangat kerja yang rendah membuka jalan menuju konsekuensi negatif." />
+        <EmbeddedText Flags="" Id="HTP_HEADING_EXPLORATION" Notes="" Text="Eksplorasi" />
+        <EmbeddedText Flags="" Id="HTP_TEXT_EXPLORATION" Notes="" Text="Menavigasi Dunia: Tekan [xi_x] untuk berinteraksi dengan berbagai objek lingkungan, mulai dari memanjat pagar, melewati penghalang, hingga menabrak jendela. Stealth: Tahan [xi_x] untuk berjongkok dan masuk ke mode stealth. Gunakan [xi_x] untuk bergerak sambil berjongkok. Ketuk [xi_x] lagi untuk keluar dari posisi berjongkok. Berjongkok saat berada di semak-semak memberikan tambahan kemampuan sembunyi-sembunyi. Menyelinap ke arah zombie yang berkeliaran untuk melancarkan serangan mematikan seketika dengan [xi_x] + [xi_x]. Penemuan: Gunakan [xi_x] untuk berinteraksi dengan objek di dunia seperti membuka pintu, mencari kontainer, dan menutup jendela. Ekspresikan Diri Anda: Bereksperimenlah dengan efek berbagai emosi yang dapat ditampilkan karakter Anda. Tahan [xi_x] lalu tekan [xi_x], [xi_x], [xi_x], atau [xi_x]." />
+        <EmbeddedText Flags="" Id="HTP_HEADING_COMBAT" Notes="" Text="Pertempuran" />
+        <EmbeddedText Flags="" Id="HTP_TEXT_COMBAT" Notes="" Text="Latihan menjadi sempurna. Setiap karakter di dunia memiliki keahlian dan sifat unik, beberapa di antaranya dapat memengaruhi efektivitas pertarungan. Tingkatkan keterampilan melalui penggunaan, lalu pilih spesialisasi mana yang akan dibuka. Apakah Anda ahli siluman, mampu menyelinap ke gedung mana pun? Atau apakah Anda mesin pembunuh zombie sekali tembak? Gerakan Kontekstual: Tekan [xi_use] + [xi_use] untuk gerakan interaktif seperti mendorong zombie menjauh atau mendorongnya ke dinding. Finisher: Saat musuh dalam posisi tengkurap, tekan [xi_use] + [xi_use] untuk melakukan gerakan finishing." />
+        <EmbeddedText Flags="" Id="HTP_HEADING_VEHICLES" Notes="" Text="Kendaraan" />
+        <EmbeddedText Flags="" Id="HTP_TEXT_VEHICLES" Notes="" Text="Seperti semua sumber daya berharga di dunia, pasokan mobil terbatas. Anda pasti ingin membawanya pulang dan memperbaikinya di bengkel Anda agar tetap berfungsi dengan baik. Jika sebuah kendaraan mengalami kerusakan yang tidak dapat diperbaiki lagi, maka kendaraan tersebut akan hilang selamanya. Dan jangan lupa, kendaraan berisik!" />
+        <EmbeddedText Flags="" Id="HTP_HEADING_MISSIONS" Notes="" Text="Misi" />
+        <EmbeddedText Flags="" Id="HTP_TEXT_MISSIONS" Notes="" Text="Pantau peta Anda dan dengarkan radio untuk peluang misi baru.  Jenis misinya beragam, mulai dari lari mencari hingga membantu tetangga Anda melawan serangan zombi. Putuskan misi mana yang akan diambil berdasarkan kebutuhan komunitas Anda. Beberapa peluang misi bersifat sensitif terhadap waktu, jadi pilihlah prioritas Anda dengan hati-hati. Bertahan hidup adalah pekerjaan yang melelahkan dan, tidak seperti zombie, manusia perlu istirahat. Ketika Vitalitas dan Stamina Anda hampir habis, kembalilah ke markas Anda untuk beristirahat. Mungkin mengajak anggota komunitas lain berjalan-jalan." />
+        <EmbeddedText Flags="" Id="HTP_HEADING_INFLUENCE" Notes="" Text="Pengaruh" />
+        <EmbeddedText Flags="" Id="HTP_TEXT_INFLUENCE" Notes="" Text="Uang tunai tidak lagi menjadi faktor dalam dunia zombie pasca-apokaliptik. Mata uang baru adalah persediaan dan perbuatan yang memberi Anda Pengaruh.  Pengaruh memainkan peran besar dalam mendapatkan apa yang Anda inginkan, apakah itu berupa amunisi dari gudang persediaan komunitas Anda atau meminjam obat-obatan dari tetangga Anda. Pengaruh Penghasilan cukup mudah: Selesaikan Masalah." />
+        <EmbeddedText Flags="" Id="HTP_PAGE_NEXT" Notes="Move to next page in 'how to play' menu" Text="Selanjutnya" />
+        <EmbeddedText Flags="" Id="HTP_PAGE_PREV" Notes="Move to previous page in 'how to play' menu" Text="Sebelumnya" />
+        <EmbeddedText Flags="" Id="HTP_DLC1_HEADING_SURVIVAL" Notes="" Text="Pendahuluan" />
+        <EmbeddedText Flags="" Id="HTP_DLC1_TEXT_SURVIVAL" Notes="" Text="Breakdown adalah mode baru, terbuka, dan tanpa akhir untuk State of Decay. Tidak ada alur cerita yang ditulis. Semuanya berdasarkan pilihan Anda. Saat sumber daya Anda habis, Anda dapat naik RV dan menuju skenario baru dengan persediaan yang telah diisi ulang... dan zombie yang lebih sulit." />
+        <EmbeddedText Flags="" Id="HTP_DLC1_HEADING_HOME_BASE" Notes="" Text="Menemukan Rumah" />
+        <EmbeddedText Flags="" Id="HTP_DLC1_TEXT_HOME_BASE" Notes="" Text="Saat memulai permainan Breakdown pertama, Anda perlu mencari komunitas untuk bergabung. Anda memiliki banyak komunitas untuk dipilih, masing-masing ditandai di peta. Saat Anda menemukan orang yang ingin Anda ikuti, cukup bicara dengan pemimpinnya (yang berdiri tepat di bawah penanda peta), dan umumkan bahwa Anda ingin bergabung." />
+        <EmbeddedText Flags="" Id="HTP_DLC1_HEADING_EXPLORATION" Notes="" Text="RV" />
+        <EmbeddedText Flags="" Id="HTP_DLC1_TEXT_EXPLORATION" Notes="" Text="Bahkan sebelum Anda siap untuk melanjutkan ke peta berikutnya, Anda harus tetap membuka mata untuk melihat RV yang berfungsi yang disangga pada dongkrak, di suatu tempat di lingkungan tersebut. RV itu adalah tiket keluar Anda. Saat Anda mendekatinya untuk pertama kali, itu akan ditambahkan ke Tab Beranda di Jurnal Anda, di sebelah Pos Luar. Sejak saat itu, Anda dapat menggunakan ikon RV tersebut untuk memperbaiki, memuat, dan meninggalkan RV." />
+        <EmbeddedText Flags="" Id="HTP_DLC1_HEADING_COMBAT" Notes="" Text="Hancur" />
+        <EmbeddedText Flags="" Id="HTP_DLC1_TEXT_COMBAT" Notes="" Text="RV Anda akhirnya rusak di area dengan persediaan baru di mana Anda dapat mulai membangunnya kembali. Ini akan berfungsi sebagai tempat tinggal sementara Anda sampai Anda dapat menemukan tempat tinggal baru." />
+        <EmbeddedText Flags="" Id="HTP_DLC1_HEADING_VEHICLES" Notes="" Text="Kesulitan" />
+        <EmbeddedText Flags="" Id="HTP_DLC1_TEXT_VEHICLES" Notes="" Text="Setiap kali Anda melanjutkan perjalanan dengan RV, tingkat kesulitan Anda meningkat. Anda dapat memeriksa tingkat kesulitan Anda saat ini dengan mengunjungi tab Tantangan di Jurnal. Tingkat kesulitan yang tinggi berarti zombie yang lebih padat, lebih cepat, lebih berbahaya, serta pengurangan sumber daya yang tersedia. Setelah tingkat kesulitan dibuka, Anda dapat memilihnya sebagai titik awal dalam game Breakdown mendatang." />
+        <EmbeddedText Flags="" Id="HTP_DLC1_HEADING_MISSIONS" Notes="" Text="Tantangan dan Pahlawan" />
+        <EmbeddedText Flags="" Id="HTP_DLC1_TEXT_MISSIONS" Notes="" Text="Tab Tantangan di Jurnal Anda menampilkan daftar Tantangan, yang masing-masing terkait dengan Pahlawan tertentu. Selesaikan sebuah tantangan, dan Pahlawannya akan segera muncul sebagai karakter yang dapat direkrut, dan akan mulai muncul secara acak di dunia dalam semua game Breakdown Anda di masa mendatang. Anda juga dapat memilih Pahlawan tersebut sebagai karakter awal saat memulai permainan baru dari awal. Pahlawan biasanya dimulai dengan peningkatan keterampilan, kemampuan unik, dan senjata khusus." />
+        <EmbeddedText Flags="" Id="HTP_DLC1_HEADING_INFLUENCE" Notes="" Text="Mencetak gol" />
+        <EmbeddedText Flags="" Id="HTP_DLC1_TEXT_INFLUENCE" Notes="" Text="Pembunuhan zombie, prestasi keterampilan bertarung, misi yang diselesaikan, peningkatan Rumah, dan berbagai pencapaian lainnya semuanya berkontribusi pada Skor yang Anda peroleh di akhir skenario Kerusakan. Setiap kali Anda meninggalkan peta (atau mati), Skor Anda akan ditampilkan, dan Skor yang sama akan dilacak dan dicatat di papan peringkat Perincian. Bermain pada tingkat kesulitan yang lebih tinggi mempunyai dampak positif yang besar pada Skor Anda." />
+        <EmbeddedText Flags="" Id="HTP_TEXT_EXPLORATION_KEYBOARD" Notes="" Text="Menavigasi Dunia: Tekan [emote2] untuk berinteraksi dengan berbagai objek lingkungan, mulai dari memanjat pagar, melewati penghalang, hingga menabrak jendela. Stealth: Tahan [emote2] untuk berjongkok dan masuk ke mode stealth. Gunakan [emote2], [emote2], [emote2], [emote2] untuk bergerak sambil berjongkok. . Ketuk [emote2] lagi untuk keluar dari posisi berjongkok. Berjongkok saat berada di semak-semak memberikan tambahan kemampuan sembunyi-sembunyi. Menyelinap ke arah zombie yang berkeliaran untuk melancarkan serangan mematikan seketika. Penemuan: Gunakan [emote2] untuk berinteraksi dengan objek di dunia seperti membuka pintu, mencari kontainer, dan menutup jendela. Ekspresikan Diri Anda: Bereksperimenlah dengan efek berbagai emosi yang dapat ditampilkan karakter Anda. Tekan [emote2], [emote2], [emote2], atau [emote2] untuk mengeluarkan emosi." />
+        <EmbeddedText Flags="" Id="HTP_TEXT_COMBAT_KEYBOARD" Notes="" Text="Latihan menjadi sempurna. Setiap karakter di dunia memiliki keahlian dan sifat unik, beberapa di antaranya dapat memengaruhi efektivitas pertarungan. Tingkatkan keterampilan melalui penggunaan, lalu pilih spesialisasi mana yang akan dibuka. Apakah Anda ahli siluman, mampu menyelinap ke gedung mana pun? Atau apakah Anda mesin pembunuh zombie sekali tembak? Gerakan Kontekstual: Tekan [execute] untuk gerakan interaktif seperti mendorong zombie menjauh atau mendorongnya ke dinding. Finisher: Saat musuh dalam posisi tengkurap, tekan [execute] untuk melakukan gerakan finishing." />
+        <EmbeddedText Flags="" Id="HTP_DLC2_HEADING_INTRO" Notes="" Text="Pendahuluan" />
+        <EmbeddedText Flags="" Id="HTP_DLC2_TEXT_INTRO" Notes="" Text="State of Decay: Lifeline adalah ekspansi bertema militer ke State of Decay, menampilkan peta baru, karakter baru, dan cara bermain baru. Anda adalah Greyhound One, unit Angkatan Darat AS yang telah dimasukkan ke dalam kota yang dipenuhi zombie untuk menyelamatkan personel penting, dimulai dengan seorang ilmuwan peneliti bernama Dr. Thomas Horn, yang helikopternya jatuh di luar kota." />
+        <EmbeddedText Flags="" Id="HTP_DLC2_HEADING_DANFORTH" Notes="" Text="Selamat datang di Danforth" />
+        <EmbeddedText Flags="" Id="HTP_DLC2_TEXT_DANFORTH" Notes="" Text="Kota Danforth hampir sepenuhnya dibanjiri zombie. Tekan [ul_map_menu] untuk melihat peta. Area merah adalah Zona Bahaya. Satu langkah ke dalam Zona Bahaya akan menarik segerombolan zombie dari pusat kota. Gunakan jalan raya layang untuk menavigasi pinggiran kota, dan jauhi bahaya... sebagian besar." />
+        <EmbeddedText Flags="" Id="HTP_DLC2_HEADING_BASE" Notes="" Text="Pangkalan Militer" />
+        <EmbeddedText Flags="" Id="HTP_DLC2_TEXT_BASE" Notes="" Text="Setelah Anda menetapkan basis operasi, tekan [ul_journal_menu] untuk mengelola fasilitas Anda. Tambahan baru untuk Lifeline mencakup Pertahanan (perangkap dan gangguan), Zona Pendaratan (penurunan pasokan), Pusat Operasi (taktik dan penelitian), Generator (membuka tindakan fasilitas tingkat lanjut), dan Jamban (mencegah penyakit). Pastikan untuk menjelajahi semua opsi baru dan lanjutan yang Anda inginkan." />
+        <EmbeddedText Flags="" Id="HTP_DLC2_HEADING_RESCUE" Notes="" Text="Misi Penyelamatan" />
+        <EmbeddedText Flags="" Id="HTP_DLC2_TEXT_RESCUE" Notes="" Text="Anda dikirim ke Danforth khusus untuk menyelamatkan Target Bernilai Tinggi (ditandai dengan ikon MERAH di peta). Ini adalah misi paling penting yang harus diselesaikan. Gagal atau abaikan terlalu banyak, dan operasi Anda akan dibatalkan. Warga sipil (ikon PUTIH) dan Tentara (ikon HIJAU) juga berharga, namun tidak penting untuk misi. Prajurit yang Diselamatkan dapat menjadi anggota unit Anda yang dapat dimainkan. Target Bernilai Tinggi dan Warga Sipil tidak akan melakukannya. Ketika diselamatkan, mereka akan diangkut dengan helikopter berikutnya." />
+        <EmbeddedText Flags="" Id="HTP_DLC2_HEADING_SIEGES" Notes="" Text="Pengepungan Zombi" />
+        <EmbeddedText Flags="" Id="HTP_DLC2_TEXT_SIEGES" Notes="" Text="Level Ancaman saat ini (ditampilkan di bawah peta mini) menunjukkan seberapa cepat markas Anda akan diserang -- serangan zombie besar-besaran. Ancaman ini meningkat seiring berjalannya waktu saat zombie melarikan diri dari kota, dan kemudian helikopter yang datang dari markas akan menarik mereka langsung ke markas Anda. Artinya, ketika Anda menyelamatkan Target Bernilai Tinggi atau Warga Sipil, mereka harus selamat dari pengepungan sebelum dapat diterbangkan ke tempat yang aman. Setiap kali pengepungan terjadi, segera kembali ke markas Anda untuk membantu mempertahankannya, atau orang-orang akan mati." />
+        <EmbeddedText Flags="" Id="HTP_DLC2_HEADING_OUTPOSTS" Notes="" Text="Pos-pos Militer" />
+        <EmbeddedText Flags="" Id="HTP_DLC2_TEXT_OUTPOSTS" Notes="" Text="Tekan [ul_radio_menu] untuk mengakses opsi radio dari markas, termasuk serangan artileri, bala bantuan, dan pengintaian drone (mengungkapkan lokasi zombie dan bangunan di peta) ... ditambah kemampuan untuk menempatkan Pos terdepan. Pada akhirnya, Anda mungkin perlu membangun akses Anda sendiri terhadap kemampuan ini dengan mencari situs militer yang sesuai di sekitar kota (Trailer Drone, Situs Artileri, Satelit Uplink), dan menempatkan Pos Luar di sana." />
+        <EmbeddedText Flags="" Id="HTP_DLC2_HEADING_VEHICLE_STORAGE" Notes="" Text="Penyimpanan Kendaraan" />
+        <EmbeddedText Flags="" Id="HTP_DLC2_TEXT_VEHICLE_STORAGE" Notes="" Text="Semua versi State of Decay kini telah ditingkatkan dengan Vehicle Storage. Dekati bagian belakang kendaraan yang dapat dikendarai, dan tekan [xi_use] untuk mengakses inventaris kendaraan tersebut. Anda dapat memuat item inventaris konvensional (senjata, amunisi, barang habis pakai, dll) atau sumber daya ransel (Makanan, Amunisi, Bahan, Obat-obatan, Bahan Bakar) ke dalam kendaraan. Saat Anda mengendarai kendaraan ke fasilitas Parkir Anda, sumber daya ransel apa pun yang dikandungnya secara otomatis dikirimkan ke markas Anda." />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Emote">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="EMOTE_AGREE" Notes="" Text="Setuju" />
+        <EmbeddedText Flags="" Id="EMOTE_CHEER" Notes="" Text="Bersorak" />
+        <EmbeddedText Flags="" Id="EMOTE_DISAGREE" Notes="" Text="Tidak setuju" />
+        <EmbeddedText Flags="" Id="EMOTE_YELL" Notes="" Text="Ejekan" />
+        <EmbeddedText Flags="" Id="THROW_RUCKSACK" Notes="" Text="Jatuhkan Ransel" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Weapon Types">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="WEAPON_TYPE_BLUNT_HEAVY" Notes="" Text="Senjata Berat" />
+        <EmbeddedText Flags="" Id="WEAPON_TYPE_BLUNT_LIGHT" Notes="" Text="Senjata Tumpul" />
+        <EmbeddedText Flags="" Id="WEAPON_TYPE_EDGED_LIGHT" Notes="" Text="Senjata Bermata" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="DLC">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="SYS_DLC_PLAY" Notes="" Text="Mainkan DLC" />
+        <EmbeddedText Flags="" Id="SYS_DLC1_PLAY" Notes="" Text="Mainkan Perincian" />
+        <EmbeddedText Flags="" Id="SYS_DLC1_BUY" Notes="" Text="Beli Kerusakan" />
+        <EmbeddedText Flags="" Id="SYS_DLC1_CONTINUE" Notes="" Text="Lanjutkan Skenario Perincian" />
+        <EmbeddedText Flags="" Id="SYS_DLC1_NEW_GAME" Notes="" Text="Mulai Skenario Perincian Baru" />
+        <EmbeddedText Flags="" Id="SYS_DLC1_CHALLENGE_REWARD" Notes="" Text="Hadiah: %s %s" />
+        <EmbeddedText Flags="" Id="SYS_DLC1_CHOOSE_HERO" Notes="" Text="Pilih Pahlawan Anda" />
+        <EmbeddedText Flags="" Id="SYS_DLC1_SELECT_DIFFICULTY" Notes="" Text="Pilih Kesulitan Anda" />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_LEVEL" Notes="" Text="Tingkat Kesulitan" />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_LEVEL_DESC" Notes="" Text="Tingkat Kesulitan menentukan seberapa sulit dan seberapa bermanfaatnya" />
+        <EmbeddedText Flags="" Id="SYS_DLC1_RANDOM_CHARACTER" Notes="" Text="Karakter Acak" />
+        <EmbeddedText Flags="" Id="SYS_DLC1_RANDOM_CHARACTER_DESC" Notes="" Text="Bermain sebagai karakter non-pahlawan acak. Pada awalnya, ini adalah satu-satunya pilihan Anda. Setelah pahlawan dibuka kuncinya, Anda masih dapat memilihnya untuk tantangan ekstra!" />
+        <EmbeddedText Flags="" Id="SYS_DLC1_HERO_UNLOCK" Notes="" Text="%s %s" />
+        <EmbeddedText Flags="" Id="SYS_DLC1_ARC_GOAL_HEADER" Notes="" Text="Tujuan Saat Ini" />
+        <EmbeddedText Flags="" Id="SYS_DLC1_HERO_PROGRESS" Notes="" Text="Kemajuan: %d/%d" />
+        <EmbeddedText Flags="" Id="J_CHAR_CHECKIN" Notes="" Text="Lapor Masuk" />
+        <EmbeddedText Flags="" Id="J_CHAR_OFF_RV" Notes="" Text="Keluar dari RV!" />
+        <EmbeddedText Flags="" Id="J_PORTRAIT_ON_RV" Notes="" Text="Di RV" />
+        <EmbeddedText Flags="" Id="SYS_DLC2_PLAY" Notes="" Text="Mainkan Garis Hidup" />
+        <EmbeddedText Flags="" Id="SYS_DLC2_BUY" Notes="" Text="Beli Garis Hidup" />
+        <EmbeddedText Flags="" Id="SYS_DLC_BUY_NOW" Notes="" Text="Instal Sekarang" />
+        <EmbeddedText Flags="" Id="SYS_DLC_COMING_SOON" Notes="" Text="Segera Hadir" />
+        <EmbeddedText Flags="" Id="SYS_DLC_REBOOT" Notes="" Text="Silakan mulai ulang permainan untuk beralih ke mode permainan ini." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_0" Notes="" Text="Selamat datang di Perincian!" />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_1" Notes="" Text="Lebih sedikit sumber daya. Lebih sedikit mobil. Zombi yang lebih cepat." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_2" Notes="" Text="Lebih sedikit sumber daya. Lebih sedikit mobil. Zombi yang lebih cepat." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_3" Notes="" Text="Lebih sedikit sumber daya. Lebih sedikit mobil. Zombi yang lebih cepat." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_4" Notes="" Text="Lebih sedikit sumber daya. Lebih sedikit mobil. Zombi yang lebih cepat." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_5" Notes="" Text="Lebih sedikit sumber daya. Lebih sedikit mobil. Zombi yang lebih cepat." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_6" Notes="" Text="Lebih sedikit sumber daya. Lebih sedikit mobil. Zombi yang lebih cepat." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_7" Notes="" Text="Lebih sedikit sumber daya. Lebih sedikit mobil. Zombi yang lebih cepat." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_8" Notes="" Text="Lebih sedikit sumber daya. Lebih sedikit mobil. Zombi yang lebih cepat." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_9" Notes="" Text="Kerusakan ekstra kecil. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_10" Notes="" Text="Penjerit! Screamer Ekstra. Kerusakan ekstra kecil. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_11" Notes="" Text="Kerusakan ekstra kecil. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_12" Notes="" Text="Antipeluru! Zombi lapis baja ekstra. Kerusakan ekstra kecil. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_13" Notes="" Text="Kerusakan ekstra kecil. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_14" Notes="" Text="Terlalu Tenang... Zombi penyergapan ekstra. Kerusakan ekstra kecil. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_15" Notes="" Text="Kerusakan ekstra kecil. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_16" Notes="" Text="Raksasa! Juggernaut Ekstra. Lethal Juggernauts (merebut pembunuhan, apapun kesehatannya). Kerusakan ekstra kecil. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_17" Notes="" Text="Kerusakan ekstra sedang. Juggernaut yang Mematikan. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_18" Notes="" Text="Bahaya biologis! Kembung Ekstra. Kerusakan ekstra sedang. Juggernaut yang Mematikan. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_19" Notes="" Text="Kerusakan ekstra sedang. Juggernaut yang Mematikan. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_20" Notes="" Text="Pesta Orang Mati! Gerombolan ekstra. Infestasi ekstra. Kerusakan ekstra sedang. Juggernaut yang Mematikan. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_21" Notes="" Text="Kerusakan ekstra sedang. Juggernaut yang Mematikan. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_22" Notes="" Text="Kematian yang Merayap. Screamer Ekstra. Kembung Ekstra. Kerusakan ekstra sedang. Juggernaut yang Mematikan. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_23" Notes="" Text="Kerusakan ekstra sedang. Juggernaut yang Mematikan. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_24" Notes="" Text="Kegilaan! Ekstra Ferals. Juggernaut yang Mematikan. Kerusakan ekstra sedang. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_25" Notes="" Text="Kerusakan ekstra sedang. Juggernaut yang Mematikan. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_26" Notes="" Text="Gigi dan Cakar. Ekstra Ferals. Juggernaut Ekstra. Juggernaut yang Mematikan. Kerusakan ekstra sedang. Tidak ada indikator Peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_27" Notes="" Text="Armageddon. Lingkungan paling menakutkan yang bisa dibayangkan. Kerusakan ekstra besar. Juggernaut yang Mematikan. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_28" Notes="" Text="Armageddon. Lingkungan paling menakutkan yang bisa dibayangkan. Kerusakan ekstra besar. Juggernaut yang Mematikan. Tidak ada indikator peta." />
+        <EmbeddedText Flags="" Id="SYS_DLC1_DIFFICULTY_DESCRIPTION_29" Notes="" Text="Armageddon. Lingkungan paling menakutkan yang bisa dibayangkan. Kerusakan ekstra besar. Juggernaut yang Mematikan. Tidak ada indikator peta." />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="FrontEndDurango">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="NO_USER_SIGNED_IN" Notes="" Text="Tidak ada pengguna yang masuk" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="FrontEndDurango">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="NO_USER_SIGNED_IN" Notes="" Text="Tidak ada pengguna yang masuk" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="FrontEndPC">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="FE_PROFILE1" Notes="" Text="Profil 1" />
+        <EmbeddedText Flags="" Id="FE_PROFILE2" Notes="" Text="Profil 2" />
+        <EmbeddedText Flags="" Id="FE_PROFILE3" Notes="" Text="Profil 3" />
+        <EmbeddedText Flags="" Id="FE_PROFILE4" Notes="" Text="Profil 4" />
+        <EmbeddedText Flags="" Id="FE_NEW_PROFILE" Notes="" Text="Buat Profil Baru" />
+        <EmbeddedText Flags="" Id="FE_SELECT_PROFILE" Notes="" Text="Pilih Profil" />
+        <EmbeddedText Flags="" Id="FE_PROFILE" Notes="" Text="%s : %s" />
+        <EmbeddedText Flags="" Id="FE_DELETE_PROFILE" Notes="" Text="Hapus Profil" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="BreakdownScore">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="DLC1_VIOLENCE" Notes="" Text="Kekerasan" />
+        <EmbeddedText Flags="" Id="DLC1_ZOMBIES_KILLED_HEADER" Notes="" Text="%d Zombi Terbunuh (Roadkill Tidak Masuk Hitung)" />
+        <EmbeddedText Flags="" Id="DLC1_FREAKS_KILLED_HEADER" Notes="" Text="%d Orang Aneh Dibunuh" />
+        <EmbeddedText Flags="" Id="DLC1_HORDES_DESTORYED" Notes="" Text="%d Gerombolan Hancur" />
+        <EmbeddedText Flags="" Id="DLC1_INFESTATIONS_CLEARED" Notes="" Text="%d Infestasi Dibasmi" />
+        <EmbeddedText Flags="" Id="DLC1_SKILL_HEADER" Notes="" Text="Keterampilan" />
+        <EmbeddedText Flags="" Id="DLC1_MULTIKILLS" Notes="" Text="%d Multipembunuhan" />
+        <EmbeddedText Flags="" Id="DLC1_HEADSHOT_STREAKS" Notes="" Text="%d Goresan Headshot" />
+        <EmbeddedText Flags="" Id="DLC1_STEALTH_KILLS" Notes="" Text="%d Pembunuhan Diam-diam" />
+        <EmbeddedText Flags="" Id="DLC1_LEADERSHIP_HEADER" Notes="" Text="Kepemimpinan" />
+        <EmbeddedText Flags="" Id="DLC1_RUCKSACKS" Notes="" Text="%d Ransel Terkirim" />
+        <EmbeddedText Flags="" Id="DLC1_FACILITIES_BUILT" Notes="" Text="%d Fasilitas Dibangun" />
+        <EmbeddedText Flags="" Id="DLC1_MISSIONS_COMPLETED" Notes="" Text="%d Misi Selesai" />
+        <EmbeddedText Flags="" Id="DLC1_SCORE_SUMMARY" Notes="" Text="Anda melakukannya dengan baik." />
+        <EmbeddedText Flags="" Id="DLC1_SCORE_YOU_DIED" Notes="" Text="Semua temanmu sudah mati!" />
+        <EmbeddedText Flags="" Id="DLC1_SCORE_MOVING_ON" Notes="" Text="Pindah..." />
+        <EmbeddedText Flags="" Id="DLC1_SCORE_TRAGIC_LOSS" Notes="" Text="Kerugian yang Tragis" />
+        <EmbeddedText Flags="" Id="DLC1_WARNING_CHALLENGES" Notes="" Text="Melanjutkan akan mengatur ulang kemajuan Tantangan Anda. Anda BENAR-BENAR memulai dari awal. Apakah Anda yakin ingin pergi sekarang?" />
+        <EmbeddedText Flags="" Id="DLC1_WARNING_CHALLENGES_TITLE" Notes="" Text="Peringatan!" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="LifelineScore">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="DLC2_SCORE_HEADING" Notes="" Text="Diekstraksi" />
+        <EmbeddedText Flags="" Id="DLC2_RESCUES_HEADER" Notes="" Text="Menyelamatkan" />
+        <EmbeddedText Flags="" Id="DLC2_RESCUED_VIPS_HEADER" Notes="" Text="%d Aset Bernilai Tinggi Diselamatkan" />
+        <EmbeddedText Flags="" Id="DLC2_RESCUED_CIVILIANS_HEADER" Notes="" Text="%d Warga Sipil Diselamatkan" />
+        <EmbeddedText Flags="" Id="DLC2_RESCUED_SOLDIERS_HEADER" Notes="" Text="%d Tentara Diselamatkan" />
+        <EmbeddedText Flags="" Id="DLC2_LOSSES_HEADER" Notes="" Text="Kerugian" />
+        <EmbeddedText Flags="" Id="DLC2_LOSSES_VIPS_HEADER" Notes="" Text="%d Hilangnya Aset Bernilai Tinggi" />
+        <EmbeddedText Flags="" Id="DLC2_LOSSES_CIVILIANS_HEADER" Notes="" Text="%d Warga Sipil Hilang" />
+        <EmbeddedText Flags="" Id="DLC2_LOSSES_SOLDIERS_HEADER" Notes="" Text="%d Tentara Hilang" />
+        <EmbeddedText Flags="" Id="DLC2_TARGETS_HEADER" Notes="" Text="Target Dinetralkan" />
+        <EmbeddedText Flags="" Id="DLC2_ZOMBIES_KILLED_HEADER" Notes="" Text="%d Zombi Terbunuh (Roadkill Tidak Masuk Hitung)" />
+        <EmbeddedText Flags="" Id="DLC2_FREAKS_KILLED_HEADER" Notes="" Text="%d Orang Aneh Dibunuh" />
+        <EmbeddedText Flags="" Id="DLC2_SASQUATCH_HUNTS_HEADER" Notes="" Text="%d Perburuan Sasquatch Selesai" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Keyboard">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_ESCAPE" Notes="" Text="ESC" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_1" Notes="" Text="1" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_2" Notes="" Text="2" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_3" Notes="" Text="3" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_4" Notes="" Text="4" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_5" Notes="" Text="5" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_6" Notes="" Text="6" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_7" Notes="" Text="7" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_8" Notes="" Text="8" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_9" Notes="" Text="9" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_0" Notes="" Text="0" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_MINUS" Notes="" Text="-" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_EQUALS" Notes="" Text="=" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_BACKSPACE" Notes="" Text="BKSP" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_TAB" Notes="" Text="TAB" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_Q" Notes="" Text="T" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_W" Notes="" Text="W" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_E" Notes="" Text="E" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_R" Notes="" Text="R" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_T" Notes="" Text="T" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_Y" Notes="" Text="Y" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_U" Notes="" Text="kamu" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_I" Notes="" Text="saya" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_O" Notes="" Text="HAI" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_P" Notes="" Text="hal" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_LBRACKET" Notes="" Text="[" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_RBRACKET" Notes="" Text="]" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_ENTER" Notes="" Text="MASUK" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_LCTRL" Notes="" Text="LCTRL" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_A" Notes="" Text="SEBUAH" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_S" Notes="" Text="S" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_D" Notes="" Text="D" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_F" Notes="" Text="F" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_G" Notes="" Text="G" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_H" Notes="" Text="H" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_J" Notes="" Text="J" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_K" Notes="" Text="K" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_L" Notes="" Text="L" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_SEMICOLON" Notes="" Text=";" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_APOSTROPHE" Notes="" Text="'" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_TILDE" Notes="" Text="~" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_LSHIFT" Notes="" Text="LSHFT" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_BACKSLASH" Notes="" Text="\\" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_Z" Notes="" Text="Z" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_X" Notes="" Text="X" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_C" Notes="" Text="C" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_V" Notes="" Text="V" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_B" Notes="" Text="B" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_N" Notes="" Text="N" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_M" Notes="" Text="M" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_COMMA" Notes="" Text="," />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_PERIOD" Notes="" Text="." />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_SLASH" Notes="" Text="/" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_RSHIFT" Notes="" Text="RSHFT" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NP_MULTIPLY" Notes="" Text="NM*" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_LALT" Notes="" Text="LALT" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_SPACE" Notes="" Text="SPC" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_CAPSLOCK" Notes="" Text="CAPS" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_F1" Notes="" Text="F1" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_F2" Notes="" Text="F2" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_F3" Notes="" Text="F3" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_F4" Notes="" Text="F4" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_F5" Notes="" Text="F5" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_F6" Notes="" Text="F6" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_F7" Notes="" Text="F7" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_F8" Notes="" Text="F8" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_F9" Notes="" Text="F9" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_F10" Notes="" Text="F10" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NUMLOCK" Notes="" Text="NMLK" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_SCROLLLOCK" Notes="" Text="SCL" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NP_7" Notes="" Text="NM7" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NP_8" Notes="" Text="NM8" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NP_9" Notes="" Text="NM9" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NP_SUBSTRACT" Notes="" Text="NM-" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NP_4" Notes="" Text="NM4" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NP_5" Notes="" Text="NM5" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NP_6" Notes="" Text="NM6" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NP_ADD" Notes="" Text="NM+" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NP_1" Notes="" Text="NM1" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NP_2" Notes="" Text="NM2" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NP_3" Notes="" Text="NM3" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NP_0" Notes="" Text="NM0" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_F11" Notes="" Text="F11" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_F12" Notes="" Text="F12" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_F13" Notes="" Text="F13" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_F14" Notes="" Text="F14" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_F15" Notes="" Text="F15" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_COLON" Notes="" Text=";" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_UNDERLINE" Notes="" Text="_" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NP_ENTER" Notes="" Text="NMEN" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_RCTRL" Notes="" Text="RCTRL" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NP_PERIOD" Notes="" Text="NM." />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_NP_DIVIDE" Notes="" Text="tidak/" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_PRINT" Notes="" Text="PRNT" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_RALT" Notes="" Text="RALT" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_PAUSE" Notes="" Text="JEDA" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_HOME" Notes="" Text="RUMAH" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_UP" Notes="" Text="NAIK" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_LEFT" Notes="" Text="KIRI" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_RIGHT" Notes="" Text="BENAR" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_END" Notes="" Text="AKHIR" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_DOWN" Notes="" Text="BAWAH" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_PGUP" Notes="" Text="PGUP" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_PGDN" Notes="" Text="PGDN" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_INSERT" Notes="" Text="DALAM" />
+        <EmbeddedText Flags="" Id="KEYBOARD_KEY_DELETE" Notes="" Text="DEL" />
+        <EmbeddedText Flags="" Id="MOUSE_WHEEL_DOWN" Notes="" Text="MWDN" />
+        <EmbeddedText Flags="" Id="MOUSE_WHEEL_UP" Notes="" Text="MWUP" />
+        <EmbeddedText Flags="" Id="MOUSE_LEFT" Notes="" Text="LMB" />
+        <EmbeddedText Flags="" Id="MOUSE_RIGHT" Notes="" Text="RMB" />
+        <EmbeddedText Flags="" Id="TRIGGER_BUTTON_LEFT" Notes="" Text="xi_triggerl" />
+        <EmbeddedText Flags="" Id="TRIGGER_BUTTON_RIGHT" Notes="" Text="xi_triggerr" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="KeyboardControlLabels">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="CONTROLS_MENU_JOURNAL" Notes="" Text="Jurnal" />
+        <EmbeddedText Flags="" Id="CONTROLS_MENU_RADIO" Notes="" Text="Radio" />
+        <EmbeddedText Flags="" Id="CONTROLS_MENU_MAP" Notes="" Text="Peta" />
+        <EmbeddedText Flags="" Id="CONTROLS_MENU_SOCIAL" Notes="" Text="Sosial" />
+        <EmbeddedText Flags="" Id="CONTROLS_UI_ACTIVATE" Notes="" Text="Aktifkan" />
+        <EmbeddedText Flags="" Id="CONTROLS_UI_BACK_PAUSE" Notes="" Text="Kembali/Jeda" />
+        <EmbeddedText Flags="" Id="CONTROLS_UI_INTERACT" Notes="" Text="pilihan 2" />
+        <EmbeddedText Flags="" Id="CONTROLS_UI_OPTION_3" Notes="" Text="Pilihan 3" />
+        <EmbeddedText Flags="" Id="CONTROLS_UI_PREV_TAB" Notes="" Text="Tab Sebelumnya" />
+        <EmbeddedText Flags="" Id="CONTROLS_UI_NEXT_TAB" Notes="" Text="Tab Berikutnya" />
+        <EmbeddedText Flags="" Id="CONTROLS_UI_UP" Notes="" Text="Naik" />
+        <EmbeddedText Flags="" Id="CONTROLS_UI_DOWN" Notes="" Text="Turun" />
+        <EmbeddedText Flags="" Id="CONTROLS_UI_LEFT" Notes="" Text="Kiri" />
+        <EmbeddedText Flags="" Id="CONTROLS_UI_RIGHT" Notes="" Text="Benar" />
+        <EmbeddedText Flags="" Id="CONTROLS_MAP_NEXT_POI" Notes="" Text="Tempat Menarik Berikutnya" />
+        <EmbeddedText Flags="" Id="CONTROLS_MAP_PREV_POI" Notes="" Text="Sebelumnya Tempat Menarik" />
+        <EmbeddedText Flags="" Id="CONTROLS_MAP_LEGEND" Notes="" Text="Beralih Legenda" />
+        <EmbeddedText Flags="" Id="CONTROLS_MAP_WAYPOINT" Notes="" Text="Alihkan Titik Arah" />
+        <EmbeddedText Flags="" Id="CONTROLS_NAV_MOVELEFT" Notes="" Text="Pindah ke Kiri" />
+        <EmbeddedText Flags="" Id="CONTROLS_NAV_MOVERIGHT" Notes="" Text="Bergerak ke Kanan" />
+        <EmbeddedText Flags="" Id="CONTROLS_NAV_MOVEFORWARD" Notes="" Text="Bergerak Maju" />
+        <EmbeddedText Flags="" Id="CONTROLS_NAV_MOVEBACK" Notes="" Text="Pindah Kembali" />
+        <EmbeddedText Flags="" Id="CONTROLS_NAV_SPRINT" Notes="" Text="Lari cepat" />
+        <EmbeddedText Flags="" Id="CONTROLS_NAV_JUMP" Notes="" Text="Lompat" />
+        <EmbeddedText Flags="" Id="CONTROLS_NAV_SNEAK" Notes="" Text="Menyelinap" />
+        <EmbeddedText Flags="" Id="CONTROLS_NAV_ROLL" Notes="" Text="Gulung" />
+        <EmbeddedText Flags="" Id="CONTROLS_NAV_INTERACT" Notes="" Text="Berinteraksi" />
+        <EmbeddedText Flags="" Id="CONTROLS_COMBAT_ZOOM" Notes="" Text="Bidik / Pramuka" />
+        <EmbeddedText Flags="" Id="CONTROLS_COMBAT_SHOOT" Notes="" Text="Tembak" />
+        <EmbeddedText Flags="" Id="CONTROLS_COMBAT_MELEE" Notes="" Text="Serangan jarak dekat" />
+        <EmbeddedText Flags="" Id="CONTROLS_COMBAT_EXECUTE" Notes="" Text="Jalankan" />
+        <EmbeddedText Flags="" Id="CONTROLS_COMBAT_RELOAD" Notes="" Text="Muat ulang" />
+        <EmbeddedText Flags="" Id="CONTROLS_COMBAT_FIREMODE" Notes="" Text="Mode api" />
+        <EmbeddedText Flags="" Id="CONTROLS_ITEM_USE" Notes="" Text="Gunakan Barang" />
+        <EmbeddedText Flags="" Id="CONTROLS_ITEM_NEXT" Notes="" Text="Barang Berikutnya" />
+        <EmbeddedText Flags="" Id="CONTROLS_ITEM_PREV" Notes="" Text="Barang Sebelumnya" />
+        <EmbeddedText Flags="" Id="CONTROLS_ITEM_DROP" Notes="" Text="Jatuhkan Ransel" />
+        <EmbeddedText Flags="" Id="CONTROLS_ITEM_LIGHT" Notes="" Text="Senter" />
+        <EmbeddedText Flags="" Id="CONTROLS_EMOTE_1" Notes="" Text="emosi 1" />
+        <EmbeddedText Flags="" Id="CONTROLS_EMOTE_2" Notes="" Text="emosi 2" />
+        <EmbeddedText Flags="" Id="CONTROLS_EMOTE_3" Notes="" Text="emosi 3" />
+        <EmbeddedText Flags="" Id="CONTROLS_EMOTE_4" Notes="" Text="emosi 4" />
+        <EmbeddedText Flags="" Id="CONTROLS_VEH_EXIT" Notes="" Text="Keluar dari Kendaraan" />
+        <EmbeddedText Flags="" Id="CONTROLS_VEH_HORN" Notes="" Text="Tanduk" />
+        <EmbeddedText Flags="" Id="CONTROLS_VEH_LIGHTS" Notes="" Text="Lampu" />
+        <EmbeddedText Flags="" Id="CONTROLS_VEH_SIREN" Notes="" Text="Sirene" />
+        <EmbeddedText Flags="" Id="CONTROLS_VEH_ACCEL" Notes="" Text="Mempercepat" />
+        <EmbeddedText Flags="" Id="CONTROLS_VEH_LEFT" Notes="" Text="Belok Kiri" />
+        <EmbeddedText Flags="" Id="CONTROLS_VEH_RIGHT" Notes="" Text="Belok Kanan" />
+        <EmbeddedText Flags="" Id="CONTROLS_VEH_BRAKE" Notes="" Text="Rem / Mundur" />
+        <EmbeddedText Flags="" Id="CONTROLS_VEH_E_BRAKE" Notes="" Text="rem tangan" />
+        <EmbeddedText Flags="" Id="CONTROLS_VEH_DOOR_ATTACK" Notes="" Text="Serangan Pintu" />
+        <EmbeddedText Flags="" Id="CONTROLS_MENU_HEADING" Notes="" Text="Menu" />
+        <EmbeddedText Flags="" Id="CONTROLS_UI_HEADING" Notes="" Text="Antarmuka Pengguna" />
+        <EmbeddedText Flags="" Id="CONTROLS_MAP_HEADING" Notes="" Text="Peta" />
+        <EmbeddedText Flags="" Id="CONTROLS_NAV_HEADING" Notes="" Text="Navigasi" />
+        <EmbeddedText Flags="" Id="CONTROLS_COMBAT_HEADING" Notes="" Text="Pertempuran" />
+        <EmbeddedText Flags="" Id="CONTROLS_ITEM_HEADING" Notes="" Text="Barang" />
+        <EmbeddedText Flags="" Id="CONTROLS_EMOTE_HEADING" Notes="" Text="emosi" />
+        <EmbeddedText Flags="" Id="CONTROLS_VEH_HEADING" Notes="" Text="Mengemudi" />
+        <EmbeddedText Flags="" Id="CONTROLS_REBIND_HEADING" Notes="" Text="Memetakan ulang %s" />
+        <EmbeddedText Flags="" Id="CONTROLS_REBIND_DETAILS" Notes="" Text="Tekan tombol yang diinginkan" />
+        <EmbeddedText Flags="" Id="CONTROLS_REBIND_CONFLICT" Notes="" Text="[%s] bertentangan dengan %s. Petakan ulang itu dulu." />
+        <EmbeddedText Flags="" Id="CONTROLS_NAV_CAMERA" Notes="" Text="Kamera / Zoom" />
+        <EmbeddedText Flags="" Id="CONTROLS_UI_SCROLL_UP" Notes="" Text="Gulir ke Atas" />
+        <EmbeddedText Flags="" Id="CONTROLS_UI_SCROLL_DOWN" Notes="" Text="Gulir ke Bawah" />
+        <EmbeddedText Flags="" Id="CONTROLS_REBIND_DISALLOWED" Notes="" Text="[%s] tidak diperbolehkan untuk tindakan ini." />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Game DVR">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="DVR_FREAK_OF_SURVIVAL_ID" Notes="" Text="4" />
+        <EmbeddedText Flags="" Id="DVR_FREAK_OF_SURVIVAL_TEXT" Notes="" Text="Orang Aneh yang Bertahan Hidup" />
+        <EmbeddedText Flags="" Id="DVR_HEROIC_MULTIKILL_ID" Notes="" Text="5" />
+        <EmbeddedText Flags="" Id="DVR_HEROIC_MULTIKILL_TEXT" Notes="" Text="Multipembunuhan Heroik" />
+        <EmbeddedText Flags="" Id="DVR_LOSS_TO_THE_COMMUNITY_ID" Notes="" Text="3" />
+        <EmbeddedText Flags="" Id="DVR_LOSS_TO_THE_COMMUNITY_TEXT" Notes="" Text="Kerugian Masyarakat" />
+        <EmbeddedText Flags="" Id="DVR_HOW_YOU_DIED_ID" Notes="" Text="2" />
+        <EmbeddedText Flags="" Id="DVR_HOW_YOU_DIED_TEXT" Notes="" Text="Beginilah Cara Anda Meninggal" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="ChallengeRewards">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_STORAGE_ITEM_CLAIMED" Notes="" Text="Hadiah Dikirim ke Penyimpanan!" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_SPAWN_VEHICLE_CLAIMED" Notes="" Text="Kendaraan Dikirim!" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_SPAWN_CHARACTER_CLAIMED" Notes="" Text="" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_RESOURCE_CLAIMED" Notes="" Text="" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_SPORTS" Notes="" Text="Peralatan Olahraga" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_SPORTS" Notes="" Text="HADIAH. Koleksi senjata untuk olahragawan pembunuh zombie, dikirimkan langsung ke Supply Locker Anda." />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_TOWTRUCK" Notes="" Text="Truk Derek" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_TOWTRUCK" Notes="" Text="HADIAH. Truk derek babi, dikirim dekat lokasi Anda saat ini." />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_CLEANER" Notes="" Text="Mobil yang Lebih Bersih" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_CLEANER" Notes="" Text="HADIAH. Mobil sport bermerek menarik, dikirimkan dekat lokasi Anda saat ini." />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_INCINDIARY" Notes="" Text="Revolver Pembakar" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_INCINDIARY" Notes="" Text="HADIAH. Revolver pembakar langka, dikirim langsung ke Supply Locker Anda." />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_DEMOLITIONS" Notes="" Text="Ahli Pembongkaran" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_DEMOLITIONS" Notes="" Text="HADIAH. Karakter yang berspesialisasi dalam pembongkaran, segera ditambahkan ke komunitas Anda." />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_FIREFIGHTER" Notes="" Text="Alat Pemadam Kebakaran" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_FIREFIGHTER" Notes="" Text="HADIAH. Kumpulan alat-alat berat yang digunakan oleh layanan pemadam kebakaran dan penyelamatan, dikirimkan langsung ke Supply Locker Anda." />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_BACKPACK" Notes="" Text="Ransel Sekolah" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_BACKPACK" Notes="" Text="HADIAH. Tas ransel besar yang khas, diantar langsung ke Supply Locker Anda." />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_BLADES" Notes="" Text="Pisau Koleksi" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_BLADES" Notes="" Text="HADIAH. Koleksi bilah yang dibuat dengan sangat baik, dikirim langsung ke Supply Locker Anda." />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_PIE" Notes="" Text="pai liburan" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_PIE" Notes="" Text="HADIAH. Mengirimkan satu peti berisi Pie ke loker persediaanmu, dan membuka Aksi Fasilitas baru di Dapur." />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_STEALTH" Notes="" Text="Senjata yang Ditekan" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_STEALTH" Notes="" Text="HADIAH. Senjata api berkapasitas tinggi dan koleksi penekan berkualitas, dikirimkan langsung ke Supply Locker Anda." />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_NEWYEARS" Notes="" Text="Senjata Improvisasi" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_NEWYEARS" Notes="" Text="HADIAH. Seseorang di komunitas Anda membuat senjata perayaan untuk menandai tahun baru. Tidak ada yang akan mengakui bahwa itu adalah mereka." />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_VALENTINE" Notes="" Text="Senjata Valentine" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_VALENTINE" Notes="" Text="HADIAH. Senjata api berkapasitas tinggi yang indah, dihias untuk mengekspresikan cinta dan pengabdian yang dirasakan anggota komunitas Anda terhadap satu sama lain." />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_AMMO" Notes="" Text="Penurunan amunisi" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_AMMO" Notes="" Text="HADIAH. Amunisi senilai beberapa ransel, dikirimkan langsung ke tumpukan Anda." />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_MEDICINE" Notes="" Text="Penurunan Obat" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_MEDICINE" Notes="" Text="HADIAH. Obat-obatan senilai beberapa ransel, dikirimkan langsung ke tumpukan Anda." />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_FOOD" Notes="" Text="Penurunan Makanan" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_FOOD" Notes="" Text="HADIAH. Makanan senilai beberapa ransel, dikirimkan langsung ke timbunan Anda." />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_FUEL" Notes="" Text="Penurunan Bahan Bakar" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_FUEL" Notes="" Text="HADIAH. Bahan Bakar senilai beberapa ransel, dikirimkan langsung ke timbunan Anda." />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_MENU_ORIGINAL" Notes="" Text="Karakter Bonus" />
+        <EmbeddedText Flags="" Id="CHALLENGE_REWARD_DESC_ORIGINAL" Notes="" Text="HADIAH. Terima kasih telah membeli State of Decay yang asli! Pilih opsi ini, dan karakter eksklusif akan ditambahkan langsung ke komunitas Anda." />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="RewardPopups">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="REWARD_POPUP_GURUBANI_1" Notes="" Text="Terima kasih telah mendukung State of Decay yang asli! Untuk menunjukkan rasa terima kasih kami, kami telah membuka KARAKTER UNIK untuk Anda!" />
+        <EmbeddedText Flags="" Id="REWARD_POPUP_GURUBANI_2A" Notes="If we manage to get Gurubani selectable on the front end." Text="Anda akan menemukan GURBANI KAUR pada Menu Pahlawan di Breakdown. Atau gunakan Menu Radio untuk menambahkannya setelah Anda membangun basis." />
+        <EmbeddedText Flags="" Id="REWARD_POPUP_GURUBANI_2B" Notes="If we DON'T manage to get Gurubani selectable on the front end." Text="Gunakan Menu Radio untuk menambahkan GURUBANI KAUR ke komunitas Anda setelah Anda mendirikan basis." />
+        <EmbeddedText Flags="" Id="REWARD_POPUP_PREPPER_1" Notes="" Text="Anda telah membuka kunci Paket Prepper!" />
+        <EmbeddedText Flags="" Id="REWARD_POPUP_PREPPER_2" Notes="" Text="Setelah Anda membangun markas di State of Decay, Breakdown, atau Lifeline, Anda dapat menggunakan RADIO untuk memanggil persediaan unik yang mencakup SUV, Kapak Lipat, dan Senapan Serbu. Menikmati!" />
+        <EmbeddedText Flags="" Id="REWARD_POPUP_ACCEPT" Notes="" Text="Mengerti!" />
+        <EmbeddedText Flags="" Id="SAVE_IMPORT_POPUP_1" Notes="" Text="Kami mendeteksi adanya penyimpanan yang ditransfer dari State of Decay yang asli." />
+        <EmbeddedText Flags="" Id="SAVE_IMPORT_POPUP_2" Notes="" Text="Apakah Anda ingin menggunakan game simpanan asli Anda, atau menghapusnya dan melanjutkan secara normal?" />
+        <EmbeddedText Flags="" Id="SAVE_IMPORT_POPUP_ACCEPT" Notes="" Text="Gunakan Simpanan Asli" />
+        <EmbeddedText Flags="" Id="SAVE_IMPORT_POPUP_DECLINE" Notes="" Text="Hapus itu" />
+        <EmbeddedText Flags="" Id="SAVE_EXPORT_POPUP_1" Notes="" Text="Kami dapat mengekspor salinan game simpanan Anda saat ini untuk dimuat ke State of Decay: Year-One Survival Edition di Xbox One." />
+        <EmbeddedText Flags="" Id="SAVE_EXPORT_POPUP_2" Notes="" Text="Apakah Anda ingin melanjutkan?" />
+        <EmbeddedText Flags="" Id="SAVE_EXPORT_POPUP_ACCEPT" Notes="" Text="Lanjutkan" />
+        <EmbeddedText Flags="" Id="SAVE_EXPORT_POPUP_DECLINE" Notes="" Text="Batalkan" />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="360 Import">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="360IMPORT_LABEL" Notes="" Text="Impor Simpan Xbox 360" />
+        <EmbeddedText Flags="" Id="360CONFIRMATION" Notes="" Text="Anda akan mengimpor simpanan Xbox 360 Anda. Tindakan ini akan menimpa dan menghancurkan data simpanan State of Decay yang sudah ada di perangkat ini. Apakah Anda yakin ingin melanjutkan?" />
+        <EmbeddedText Flags="" Id="360LOADING" Notes="" Text="Mengimpor Simpan Xbox 360 ..." />
+        <EmbeddedText Flags="" Id="360IMPORT_FAILURE" Notes="" Text="Proses impor gagal karena beberapa alasan. Anda mungkin mengalami masalah konektivitas, atau file itu sendiri mungkin rusak." />
+      </TextStrings>
+    </EmbeddedTextFolder>
+    <EmbeddedTextFolder Name="Save Import">
+      <TextStrings>
+        <EmbeddedText Flags="" Id="SAVE_IMPORT_LABEL" Notes="" Text="Impor Simpan" />
+        <EmbeddedText Flags="" Id="SAVE_IMPORT_CONFIRMATION" Notes="" Text="Peringatan! Ini akan mengimpor simpanan Anda dari State of Decay asli, dan akan MENULIS kemajuan apa pun yang telah Anda buat di Edisi Bertahan Hidup Tahun Pertama. Apakah Anda yakin ingin melakukan ini?" />
+        <EmbeddedText Flags="" Id="SAVE_IMPORT_SUCCESS" Notes="" Text="Kesuksesan! Simpanan Anda dari State of Decay asli telah diimpor." />
+        <EmbeddedText Flags="" Id="SAVE_IMPORT_FAILURE" Notes="" Text="Oh tidak! Ada yang tidak beres. Silakan coba lagi, atau kunjungi forums.undeadlabs.com jika Anda memerlukan bantuan lebih lanjut." />
+      </TextStrings>
+    </EmbeddedTextFolder>
+  </TextFolders>
+</EmbeddedTextData>
